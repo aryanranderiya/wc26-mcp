@@ -2,6 +2,214 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "6328d87ac708",
+    "title": "Empty rooms and Fifa cancellations - US hotels fear World Cup washout",
+    "date": "2026-05-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c9q34pxv79eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Empty rooms and Fifa cancellations - US hotels fear World Cup washout",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "a2f678d85dec",
+    "title": "Scotland boss Clarke set for new deal until Euro 2028 - gossip",
+    "date": "2026-05-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cg7pvk157peo?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland boss Clarke set for new deal until Euro 2028 - gossip",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "a98fc1ea6989",
+    "title": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality",
+    "date": "2026-05-20",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality",
+    "summary": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "384b98ea6d30",
+    "title": "Meet the 26 players in Scotland’s first men's World Cup squad since 1998",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/extra/o52gmmsnsz/scotland-2026-world-cup-squad-guide?at_medium=RSS&at_campaign=rss",
+    "summary": "Meet the 26 players in Scotland’s first men's World Cup squad since 1998",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "f50b014e7948",
+    "title": "Ronaldo in Portugal squad for record sixth World Cup",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cn4p1332exzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ronaldo in Portugal squad for record sixth World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "02120faa425f",
+    "title": "Clarke sticks to plan over future and McBurnie omission",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c70vryz891yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Clarke sticks to plan over future and McBurnie omission",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "090b6f1d0bd5",
+    "title": "No Stone Cold Steve Clarke, but there was - at least - a story or two",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq5pq9vg3xgo?at_medium=RSS&at_campaign=rss",
+    "summary": "No Stone Cold Steve Clarke, but there was - at least - a story or two",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "97708a7dffb1",
+    "title": "Man Utd midfielder Toone returns to England squad",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g8kk1vrdzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Man Utd midfielder Toone returns to England squad",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "de184e8df7fb",
+    "title": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g94rpvx73o?at_medium=RSS&at_campaign=rss",
+    "summary": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "090b6f1d0bd5",
+    "title": "No theatre or curveballs as loyal Clarke puts trust in chosen ones",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq5pq9vg3xgo?at_medium=RSS&at_campaign=rss",
+    "summary": "No theatre or curveballs as loyal Clarke puts trust in chosen ones",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "02120faa425f",
+    "title": "Clarke sticks to plan over future and McBurnie omission",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c70vryz891yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Clarke sticks to plan over future and McBurnie omission",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "de184e8df7fb",
+    "title": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g94rpvx73o?at_medium=RSS&at_campaign=rss",
+    "summary": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "9c9e42256bc1",
+    "title": "Stewart's 'deserved' recall & World Cup disappointment for Miller",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nm3bj6?at_medium=RSS&at_campaign=rss",
+    "summary": "Stewart's 'deserved' recall & World Cup disappointment for Miller",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "97708a7dffb1",
+    "title": "Man Utd midfielder Toone returns to England squad",
+    "date": "2026-05-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g8kk1vrdzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Man Utd midfielder Toone returns to England squad",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "ed67bd6b0d53",
+    "title": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
+    "date": "2026-05-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
+    "summary": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
+    "id": "1683fd18e6ac",
+    "title": "Wiegman tells Mead next move is vital for England prospects as Toone earns recall",
+    "date": "2026-05-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/19/wiegman-mead-next-move-vital-england-prospects-toone-recall",
+    "summary": "Wiegman tells Mead next move is vital for England prospects as Toone earns recall",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-20T09:17:55.629Z"
+  },
+  {
     "id": "8df5ed35cdcd",
     "title": "Did England 'fake relationships' cost team 2006 World Cup glory?",
     "date": "2026-05-19",
@@ -2574,83 +2782,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-04-20T08:53:52.977Z"
-  },
-  {
-    "id": "493389662963",
-    "title": "How Gibbs-White made a 'huge difference' in Forest's win against Burnley",
-    "date": "2026-04-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/videos/ce9m73djz5xo?at_medium=RSS&at_campaign=rss",
-    "summary": "How Gibbs-White made a 'huge difference' in Forest's win against Burnley",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-20T08:53:52.977Z"
-  },
-  {
-    "id": "205176b1ee2b",
-    "title": "Nico O’Reilly’s fearless quality exposes collapsing Arsenal’s title credentials | Barney Ronay",
-    "date": "2026-04-19",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/19/nico-oreilly-manchester-city-arsenal-premier-league-title-race",
-    "summary": "Nico O’Reilly’s fearless quality exposes collapsing Arsenal’s title credentials | Barney Ronay",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-20T08:53:52.977Z"
-  },
-  {
-    "id": "16289fd7f7d2",
-    "title": "Former Brazil international is clear: \"Vinicius is missing something\"",
-    "date": "2026-04-19",
-    "source": "Marca",
-    "url": "https://www.marca.com/en/football/spanish-football/2026/04/19/69e4f54522601d03668b459b.html",
-    "summary": "Former Brazil international is clear: \"Vinicius is missing something\"",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-20T08:53:52.977Z"
-  },
-  {
-    "id": "91b0732023ea",
-    "title": "Pep: 'Part of myself' leaving with Silva from City",
-    "date": "2026-04-19",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/48525190/pep-guardiola-part-leaving-bernardo-silva-manchester-city",
-    "summary": "Pep: 'Part of myself' leaving with Silva from City",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-19T08:27:14.007Z"
-  },
-  {
-    "id": "4a4196425631",
-    "title": "'Frustrated' Scotland show signs of growth in Belgium",
-    "date": "2026-04-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/ckg904e4157o?at_medium=RSS&at_campaign=rss",
-    "summary": "'Frustrated' Scotland show signs of growth in Belgium",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-19T08:27:14.007Z"
-  },
-  {
-    "id": "580d43c98fa1",
-    "title": "Manchester City v Arsenal, the Merseyside derby, and more – matchday live",
-    "date": "2026-04-19",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/apr/19/manchester-city-v-arsenal-the-merseyside-derby-and-more-matchday-live",
-    "summary": "Manchester City v Arsenal, the Merseyside derby, and more – matchday live",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-19T08:27:14.007Z"
   }
 ];
