@@ -2,6 +2,240 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "b02cebc5b527",
+    "title": "Robertson, Dalglish and a special connection between Liverpool and Scotland",
+    "date": "2026-05-23",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy023w5n0dwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Robertson, Dalglish and a special connection between Liverpool and Scotland",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "b2224961dcd7",
+    "title": "DR Congo players told to isolate before World Cup",
+    "date": "2026-05-23",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
+    "summary": "DR Congo players told to isolate before World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "b815d9fbbc9a",
+    "title": "'Unselfish' over 'ego' - what do leaks say about Tuchel's England?",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cg4pgve33kyo?at_medium=RSS&at_campaign=rss",
+    "summary": "'Unselfish' over 'ego' - what do leaks say about Tuchel's England?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "36cab5db9405",
+    "title": "Romero set to be in Argentina as Spurs battle to avoid drop on final day",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cgrpzxnz1e2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Romero set to be in Argentina as Spurs battle to avoid drop on final day",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "dd063bbf365b",
+    "title": "Why Tuchel wanted Toney back in England picture",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy527w4e7yzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why Tuchel wanted Toney back in England picture",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "d2da51d7d9c1",
+    "title": "Maguire 'very unlucky' to miss World Cup - Rooney",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g02kdwp4go?at_medium=RSS&at_campaign=rss",
+    "summary": "Maguire 'very unlucky' to miss World Cup - Rooney",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "086505279278",
+    "title": "'Tuchel's gambles and iron conviction position him as the anti-Southgate'",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/ce9p4v50pkko?at_medium=RSS&at_campaign=rss",
+    "summary": "'Tuchel's gambles and iron conviction position him as the anti-Southgate'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "48727899dcde",
+    "title": "Maguire's England posts 'not necessary' - Tuchel",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c2e24m1124do?at_medium=RSS&at_campaign=rss",
+    "summary": "Maguire's England posts 'not necessary' - Tuchel",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "66ef33642deb",
+    "title": "Tuchel explains England World Cup squad selections",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cm2p1l4vxrxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tuchel explains England World Cup squad selections",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "34b058a728a1",
+    "title": "Pick your England starting line-up for the World Cup",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cp8p20n2355o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pick your England starting line-up for the World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "623dbd6bad4e",
+    "title": "Rooney disagrees with England squad omissions - but backs Toney call",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nh9bt5?at_medium=RSS&at_campaign=rss",
+    "summary": "Rooney disagrees with England squad omissions - but backs Toney call",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "79fd4019193b",
+    "title": "Football Daily",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/m002wxpc?at_medium=RSS&at_campaign=rss",
+    "summary": "Football Daily",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "4e9fdf9f0ae7",
+    "title": "'Strong leader' Wilkinson backed to grow after new deal",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cp8p5937ynlo?at_medium=RSS&at_campaign=rss",
+    "summary": "'Strong leader' Wilkinson backed to grow after new deal",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "1081277d3122",
+    "title": "Stapleton and Nolan return for crucial qualifiers",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cdxpgvee3lyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Stapleton and Nolan return for crucial qualifiers",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "dc2a9ded488b",
+    "title": "Wales boss Wilkinson signs contract extension",
+    "date": "2026-05-22",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c9d3vwpzg15o?at_medium=RSS&at_campaign=rss",
+    "summary": "Wales boss Wilkinson signs contract extension",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "626b9e2cfbce",
+    "title": "Tuchel has picked a good England squad and doesn’t care about the wider shout-verse | Barney Ronay",
+    "date": "2026-05-22",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/22/tuchel-practical-england-squad-wider-shout-verse",
+    "summary": "Tuchel has picked a good England squad and doesn’t care about the wider shout-verse | Barney Ronay",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "f98c90cee391",
+    "title": "De Zerbi defends absent Spurs captain Romero after Hoddle’s ‘selfishness’ jibe",
+    "date": "2026-05-22",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/22/de-zerbi-spurs-captain-cristian-romero-glenn-hoddle-selfishness",
+    "summary": "De Zerbi defends absent Spurs captain Romero after Hoddle’s ‘selfishness’ jibe",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
+    "id": "61dfe33c90da",
+    "title": "England’s World Cup squad talking points: from Toney’s return to clarity for Bellingham",
+    "date": "2026-05-22",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/22/englands-world-cup-squad-talking-points-from-toneys-return-to-clarity-for-bellingham",
+    "summary": "England’s World Cup squad talking points: from Toney’s return to clarity for Bellingham",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-23T08:48:40.031Z"
+  },
+  {
     "id": "f6bf8448a76a",
     "title": "Foden, Palmer, Alexander-Arnold set to miss World Cup",
     "date": "2026-05-22",
@@ -2821,96 +3055,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-04-24T08:48:38.216Z"
-  },
-  {
-    "id": "5c821951bd31",
-    "title": "Estevao's World Cup hopes in doubt after hamstring injury",
-    "date": "2026-04-22",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cn4vk4717vdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Estevao's World Cup hopes in doubt after hamstring injury",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-23T08:44:30.740Z"
-  },
-  {
-    "id": "045c2f1e4e2f",
-    "title": "Fearless Rayan Cherki offers Manchester City a point of difference in title hunt | Will Unwin",
-    "date": "2026-04-22",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/22/fearless-rayan-cherki-offers-manchester-city-a-point-of-difference-in-title-hunt",
-    "summary": "Fearless Rayan Cherki offers Manchester City a point of difference in title hunt | Will Unwin",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-23T08:44:30.740Z"
-  },
-  {
-    "id": "e00ee86b76f5",
-    "title": "Project ACL: NWSL joins WSL in initiative aimed at expanding injury research",
-    "date": "2026-04-22",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/22/project-acl-injuries-nwsl-wsl",
-    "summary": "Project ACL: NWSL joins WSL in initiative aimed at expanding injury research",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-23T08:44:30.740Z"
-  },
-  {
-    "id": "cc3ea87d0e44",
-    "title": "Will Lamine Yamal miss the World Cup? Injury scenarios explained",
-    "date": "2026-04-22",
-    "source": "Marca",
-    "url": "https://www.marca.com/en/football/barcelona/2026/04/23/69e953ecca47412c248b4594.html",
-    "summary": "Will Lamine Yamal miss the World Cup? Injury scenarios explained",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-23T08:44:30.740Z"
-  },
-  {
-    "id": "6ca0de318ce5",
-    "title": "FIFA opens sale of more WC tickets to all games",
-    "date": "2026-04-22",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/48551738/fifa-put-more-world-cup-tickets-sale-all-games",
-    "summary": "FIFA opens sale of more WC tickets to all games",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-22T08:43:49.804Z"
-  },
-  {
-    "id": "fc4308eda90b",
-    "title": "The brilliant Robert Lewandowski is facing a career without a fitting curtain call",
-    "date": "2026-04-22",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/22/robert-lewandowski-poland-barcelona",
-    "summary": "The brilliant Robert Lewandowski is facing a career without a fitting curtain call",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-22T08:43:49.804Z"
-  },
-  {
-    "id": "06dc18f9c986",
-    "title": "Socceroo Mo Touré scores fourth goal in a week as sizzling run for Norwich continues",
-    "date": "2026-04-22",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/22/socceroo-mo-toure-scores-fourth-goal-in-week-norwich-footballer",
-    "summary": "Socceroo Mo Touré scores fourth goal in a week as sizzling run for Norwich continues",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-22T08:43:49.804Z"
   }
 ];
