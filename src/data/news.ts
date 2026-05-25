@@ -2,6 +2,58 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "a15cc135043a",
+    "title": "Messi suffers injury scare before World Cup",
+    "date": "2026-05-25",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cx211e5890lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Messi suffers injury scare before World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-25T09:30:17.536Z"
+  },
+  {
+    "id": "035da1f54c69",
+    "title": "Lionel Messi exits final Miami game before World Cup with possible injury",
+    "date": "2026-05-25",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/24/lionel-messi-injury-inter-miami-argentina-world-cup-2026",
+    "summary": "Lionel Messi exits final Miami game before World Cup with possible injury",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-25T09:30:17.536Z"
+  },
+  {
+    "id": "ca649648ba77",
+    "title": "How 'electric' Watkins forced his way back into Tuchel's England",
+    "date": "2026-05-24",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cx21dzymzd2o?at_medium=RSS&at_campaign=rss",
+    "summary": "How 'electric' Watkins forced his way back into Tuchel's England",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-25T09:30:17.536Z"
+  },
+  {
+    "id": "5ae2a98bd486",
+    "title": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell",
+    "date": "2026-05-24",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/24/liverpool-brentford-premier-league-match-report",
+    "summary": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-25T09:30:17.536Z"
+  },
+  {
     "id": "02b33d557ee9",
     "title": "Sources: Reyna in as U.S. picks World Cup roster",
     "date": "2026-05-24",
@@ -2990,83 +3042,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-04-26T08:33:26.883Z"
-  },
-  {
-    "id": "158dfe0f6941",
-    "title": "Former Nigeria striker Eneramo dies during match",
-    "date": "2026-04-24",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c05d3zd1npjo?at_medium=RSS&at_campaign=rss",
-    "summary": "Former Nigeria striker Eneramo dies during match",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-25T08:26:36.470Z"
-  },
-  {
-    "id": "c288de9972b0",
-    "title": "Football news: Slot casts doubt on Alisson’s future; Livramento blow for Howe",
-    "date": "2026-04-24",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/24/football-news-slot-blames-crazy-schedule-for-alisson-absence-livramento-blow-for-howe",
-    "summary": "Football news: Slot casts doubt on Alisson’s future; Livramento blow for Howe",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-25T08:26:36.470Z"
-  },
-  {
-    "id": "b0b8249f7d8d",
-    "title": "Arsenal welcome back Bukayo Saka and ‘different energy’ for Newcastle clash",
-    "date": "2026-04-24",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/24/arsenal-welcome-back-bukayo-saka-newcastle-mikel-arteta-premier-league",
-    "summary": "Arsenal welcome back Bukayo Saka and ‘different energy’ for Newcastle clash",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-25T08:26:36.470Z"
-  },
-  {
-    "id": "723c9458c266",
-    "title": "Gianluca Prestianni hit with six-match ban for ‘homophobic conduct’ towards Vinícius Júnior",
-    "date": "2026-04-24",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/24/gianluca-prestianni-six-match-ban-homophobic-conduct-towards-vinicius-junior",
-    "summary": "Gianluca Prestianni hit with six-match ban for ‘homophobic conduct’ towards Vinícius Júnior",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-25T08:26:36.470Z"
-  },
-  {
-    "id": "5b851d4f3cf8",
-    "title": "Fifa criticized for ‘deeply concerning’ approach to ticketing for fans with disabilities",
-    "date": "2026-04-24",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/24/fifa-accessible-seating-tickets-criticism",
-    "summary": "Fifa criticized for ‘deeply concerning’ approach to ticketing for fans with disabilities",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-25T08:26:36.470Z"
-  },
-  {
-    "id": "b374d60abfa3",
-    "title": "Gibbs-White's month to prove World Cup worth",
-    "date": "2026-04-24",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/ckgxky649gwo?at_medium=RSS&at_campaign=rss",
-    "summary": "Gibbs-White's month to prove World Cup worth",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-24T08:48:38.216Z"
   }
 ];
