@@ -2,6 +2,162 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "74602cc001a8",
+    "title": "Davies in 'best ever' Canada squad for World Cup",
+    "date": "2026-05-30",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g4j119xdqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Davies in 'best ever' Canada squad for World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "43fc62a5840d",
+    "title": "Haiti World Cup 2026 team guide",
+    "date": "2026-05-30",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
+    "summary": "Haiti World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "b1c40608b8f4",
+    "title": "Clarke sure he's best man for Scots after new deal",
+    "date": "2026-05-29",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c1k210y13kmo?at_medium=RSS&at_campaign=rss",
+    "summary": "Clarke sure he's best man for Scots after new deal",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "697bfe011108",
+    "title": "Trippier verbally agrees to Wolves move after Newcastle exit",
+    "date": "2026-05-29",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cewpr4yv0y5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Trippier verbally agrees to Wolves move after Newcastle exit",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "e7addbfd2cbe",
+    "title": "Volpato makes Italy to Australia switch before World Cup",
+    "date": "2026-05-29",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq8p9e0xgdpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Volpato makes Italy to Australia switch before World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "b1c40608b8f4",
+    "title": "Clarke sure he's best man for Scotland after agreeing new deal",
+    "date": "2026-05-29",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c1k210y13kmo?at_medium=RSS&at_campaign=rss",
+    "summary": "Clarke sure he's best man for Scotland after agreeing new deal",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "d91a50e0239e",
+    "title": "Arteta insists Arsenal’s ‘ambition is bigger’ for Champions League glory after title win",
+    "date": "2026-05-29",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/29/arsenal-champions-league-final-mikel-arteta-paris-saint-germain",
+    "summary": "Arteta insists Arsenal’s ‘ambition is bigger’ for Champions League glory after title win",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "7c2f8df23211",
+    "title": "Scotland World Cup 2026 team guide",
+    "date": "2026-05-29",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/30/scotland-world-cup-2026-team-guide",
+    "summary": "Scotland World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "50d4f95efe0c",
+    "title": "Brazil World Cup 2026 team guide",
+    "date": "2026-05-29",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/29/brazil-world-cup-2026-team-guide",
+    "summary": "Brazil World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "02ccef02e2f7",
+    "title": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance",
+    "date": "2026-05-29",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup",
+    "summary": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "79e895f01bc4",
+    "title": "Socceroos enter last chance saloon with Mexico friendly to shape World Cup dreams | Jack Snape",
+    "date": "2026-05-29",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/30/socceroos-mexico-world-cup-friendly-football",
+    "summary": "Socceroos enter last chance saloon with Mexico friendly to shape World Cup dreams | Jack Snape",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
+    "id": "e635b260cf87",
+    "title": "Football Daily | Formidables v Expendables? PSG v Arsenal could be a classic",
+    "date": "2026-05-29",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/29/psg-arsenal-champions-league-final-preview-football-daily-newsletter",
+    "summary": "Football Daily | Formidables v Expendables? PSG v Arsenal could be a classic",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
+  },
+  {
     "id": "6c7409cbd23a",
     "title": "USA boss Pochettino holds talks with AC Milan",
     "date": "2026-05-29",
@@ -52,6 +208,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-29T09:20:38.141Z"
+  },
+  {
+    "id": "7950bb36434a",
+    "title": "‘Our unity defined our team’: how tiny Torreense made the Women’s Champions League",
+    "date": "2026-05-28",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/may/28/torreense-womens-champions-league-portugal-womens-football",
+    "summary": "‘Our unity defined our team’: how tiny Torreense made the Women’s Champions League",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-05-30T08:55:15.557Z"
   },
   {
     "id": "49bae5b47619",
@@ -3276,174 +3445,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-01T08:47:09.753Z"
-  },
-  {
-    "id": "3e10de6a36a3",
-    "title": "Bright reflects on 'incredible' 2022 Euros win",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/videos/c2k2jlep72go?at_medium=RSS&at_campaign=rss",
-    "summary": "Bright reflects on 'incredible' 2022 Euros win",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "9fafecb0e428",
-    "title": "Chelsea captain Bright retires - what now for ex-England defender?",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cvgzd945593o?at_medium=RSS&at_campaign=rss",
-    "summary": "Chelsea captain Bright retires - what now for ex-England defender?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "84f1935dccc2",
-    "title": "McInnes, McGlynn & Naysmith vie for manager award - but Askou misses out",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c072ne3499yo?at_medium=RSS&at_campaign=rss",
-    "summary": "McInnes, McGlynn & Naysmith vie for manager award - but Askou misses out",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "977841356709",
-    "title": "McKenna keen to reward Clarke loyalty at World Cup",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c4g4ll3p22po?at_medium=RSS&at_campaign=rss",
-    "summary": "McKenna keen to reward Clarke loyalty at World Cup",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "9fafecb0e428",
-    "title": "Chelsea captain Bright retires - what now for ex-England defender?",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cvgzd945593o?at_medium=RSS&at_campaign=rss",
-    "summary": "Chelsea captain Bright retires - what now for ex-England defender?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "2bb5077b5504",
-    "title": "Crystal Palace back in business under Glasner but Shakhtar no pushovers",
-    "date": "2026-04-29",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/29/crystal-palace-oliver-glasner-shakhtar-donetsk-europa-conference-league-semi-final",
-    "summary": "Crystal Palace back in business under Glasner but Shakhtar no pushovers",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "390b51d685ad",
-    "title": "Ashley Cole: ‘The players have to trust what I’m asking them to do’",
-    "date": "2026-04-29",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/29/ashley-cole-players-trust-first-manager-job-cesena-serie-b",
-    "summary": "Ashley Cole: ‘The players have to trust what I’m asking them to do’",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "a198c137e7a3",
-    "title": "‘I’ve given all I can’: Chelsea’s Millie Bright announces retirement with immediate effect",
-    "date": "2026-04-29",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/29/millie-bright-announces-retirement-chelsea-england",
-    "summary": "‘I’ve given all I can’: Chelsea’s Millie Bright announces retirement with immediate effect",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "66044fdc42bd",
-    "title": "Real Zaragoza goalkeeper Andrada gets 13-game ban after punching opponent",
-    "date": "2026-04-29",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/29/real-zaragoza-goalkeeper-esteban-andrada-13-game-ban-punching-huesca-opponent",
-    "summary": "Real Zaragoza goalkeeper Andrada gets 13-game ban after punching opponent",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-30T08:54:22.063Z"
-  },
-  {
-    "id": "1959bf9808ab",
-    "title": "Reign ease concerns over Wales legend Fishlock",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cjdpk4g8mv0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Reign ease concerns over Wales legend Fishlock",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-29T08:54:10.863Z"
-  },
-  {
-    "id": "1959bf9808ab",
-    "title": "Reign ease concerns over Wales legend Fishlock",
-    "date": "2026-04-29",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cjdpk4g8mv0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Reign ease concerns over Wales legend Fishlock",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-29T08:54:10.863Z"
-  },
-  {
-    "id": "ce0ecf38b41d",
-    "title": "All World Cup teams poised for tax exemption after Fifa talks with US treasury",
-    "date": "2026-04-29",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/29/world-cup-teams-tax-exemption-fifa-talks-us-treasury-federal-taxes",
-    "summary": "All World Cup teams poised for tax exemption after Fifa talks with US treasury",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-29T08:54:10.863Z"
-  },
-  {
-    "id": "a1a30daf4c35",
-    "title": "Australia’s Jackson Irvine says Trump’s Fifa peace prize makes ‘mockery’ of football",
-    "date": "2026-04-29",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/apr/29/jackson-irvine-footballer-trump-fifa-peace-prize",
-    "summary": "Australia’s Jackson Irvine says Trump’s Fifa peace prize makes ‘mockery’ of football",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-04-29T08:54:10.863Z"
   }
 ];
