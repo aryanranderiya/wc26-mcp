@@ -2,6 +2,240 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "e87531e19660",
+    "title": "Gilmour admits struggle as World Cup dream taken away",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cgqpwj0n49qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Gilmour admits struggle as World Cup dream taken away",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "f7ce6fee18ce",
+    "title": "World Cup 2026: How to follow on the BBC",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup 2026: How to follow on the BBC",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "2ff22e349f2e",
+    "title": "Quiz: Name every city hosting a World Cup 2026 match",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cd7pylr09x8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Quiz: Name every city hosting a World Cup 2026 match",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "582552fcd4a7",
+    "title": "Humble, powerful, ready - Semenyo returns to where World Cup rise began",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cddp82r2lrgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Humble, powerful, ready - Semenyo returns to where World Cup rise began",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "2b17c9f9febc",
+    "title": "Tuchel tackles questions from team of under-11s",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c707pjg3wk8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tuchel tackles questions from team of under-11s",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "82124ef6df97",
+    "title": "Wales' Cain leaves Leicester after WSL relegation",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g81e274qzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Wales' Cain leaves Leicester after WSL relegation",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "e87531e19660",
+    "title": "Gilmour admits struggle as World Cup dream taken away",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cgqpwj0n49qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Gilmour admits struggle as World Cup dream taken away",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "f7ce6fee18ce",
+    "title": "World Cup 2026: How to follow on the BBC",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup 2026: How to follow on the BBC",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "82124ef6df97",
+    "title": "Wales' Cain leaves Leicester after WSL relegation",
+    "date": "2026-06-02",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4g81e274qzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Wales' Cain leaves Leicester after WSL relegation",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "eeaa45d1462b",
+    "title": "Germany World Cup 2026 team guide",
+    "date": "2026-06-02",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/02/germany-world-cup-2026-team-guide",
+    "summary": "Germany World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "0661c5fa9c01",
+    "title": "Keegan reveals stage four cancer diagnosis",
+    "date": "2026-06-01",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
+    "summary": "Keegan reveals stage four cancer diagnosis",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "432d36797b1d",
+    "title": "Williamson to miss World Cup qualifier against Spain",
+    "date": "2026-06-01",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o?at_medium=RSS&at_campaign=rss",
+    "summary": "Williamson to miss World Cup qualifier against Spain",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "432d36797b1d",
+    "title": "Williamson to miss World Cup qualifier against Spain",
+    "date": "2026-06-01",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o?at_medium=RSS&at_campaign=rss",
+    "summary": "Williamson to miss World Cup qualifier against Spain",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "5e027ca7d5b7",
+    "title": "Rangers' Berry and McAulay earn late Scotland call",
+    "date": "2026-06-01",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c3r25we4275o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rangers' Berry and McAulay earn late Scotland call",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "68c559964d6d",
+    "title": "Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis",
+    "date": "2026-06-01",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/01/kevin-keegan-former-england-newcastle-manager-stage-four-cancer-diagnosis",
+    "summary": "Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "78f9c5c17eb0",
+    "title": "Ecuador World Cup 2026 team guide",
+    "date": "2026-06-01",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/02/ecuador-world-cup-2026-team-guide",
+    "summary": "Ecuador World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "b57bcab62806",
+    "title": "Tuchel reveals Team GB have been helping England get ready for World Cup heat",
+    "date": "2026-06-01",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/01/tuchel-reveals-team-gb-have-been-helping-england-get-ready-for-world-cup-heat",
+    "summary": "Tuchel reveals Team GB have been helping England get ready for World Cup heat",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
+    "id": "bc00b4ea8f99",
+    "title": "James Milner, Premier League’s appearance record holder, retires aged 40",
+    "date": "2026-06-01",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/01/james-milner-retires-premier-league-record-appearance-holder",
+    "summary": "James Milner, Premier League’s appearance record holder, retires aged 40",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-02T09:36:30.125Z"
+  },
+  {
     "id": "f4ab9d822797",
     "title": "Pulisic breaks drought, hopes people stop 'talking...",
     "date": "2026-06-01",
@@ -3549,44 +3783,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-03T08:41:02.123Z"
-  },
-  {
-    "id": "e99741a0a4f0",
-    "title": "$4K World Cup tickets for USMNT still available",
-    "date": "2026-05-02",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/48647342/usa-world-cup-group-stage-tickets-most-expensive-left-4k",
-    "summary": "$4K World Cup tickets for USMNT still available",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-02T08:37:51.143Z"
-  },
-  {
-    "id": "cc2437b6873f",
-    "title": "‘Of course, it crossed my mind’: Frenkie de Jong on refusing to leave Barcelona and his World Cup pain",
-    "date": "2026-05-02",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/02/frenkie-de-jong-barcelona-interview-world-cup-netherlands",
-    "summary": "‘Of course, it crossed my mind’: Frenkie de Jong on refusing to leave Barcelona and his World Cup pain",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-02T08:37:51.143Z"
-  },
-  {
-    "id": "7334aa2d52fa",
-    "title": "Rejuvenated Casemiro heads for Manchester United exit on a high",
-    "date": "2026-05-02",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/02/casemiro-manchester-united-premier-league-football",
-    "summary": "Rejuvenated Casemiro heads for Manchester United exit on a high",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-02T08:37:51.143Z"
   }
 ];
