@@ -2,6 +2,214 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "9a6d5920ba4b",
+    "title": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+    "date": "2026-06-05",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "19a3ee6686f5",
+    "title": "World Cup quiz: Name every player in England's squad",
+    "date": "2026-06-05",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c202yprg4z2o?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup quiz: Name every player in England's squad",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "73f60d136ae7",
+    "title": "How Hendry's Saudi Arabia experience can help him stay cool in US heat",
+    "date": "2026-06-05",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c62xpl0pgy4o?at_medium=RSS&at_campaign=rss",
+    "summary": "How Hendry's Saudi Arabia experience can help him stay cool in US heat",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "48074cdded42",
+    "title": "We need to teach boys differently to girls - Southgate",
+    "date": "2026-06-05",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/news/articles/ckgp5g34kzpo?at_medium=RSS&at_campaign=rss",
+    "summary": "We need to teach boys differently to girls - Southgate",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "73f60d136ae7",
+    "title": "How Hendry's Saudi experience can help him stay cool in US heat",
+    "date": "2026-06-05",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c62xpl0pgy4o?at_medium=RSS&at_campaign=rss",
+    "summary": "How Hendry's Saudi experience can help him stay cool in US heat",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "74aa5ef60972",
+    "title": "World Cup 2026 buildup, transfer latest and Lionesses in Spain: football news – live",
+    "date": "2026-06-05",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live",
+    "summary": "World Cup 2026 buildup, transfer latest and Lionesses in Spain: football news – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "f3fe1f9fee3b",
+    "title": "World Cup 2026 wallchart: print out your own here",
+    "date": "2026-06-05",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here",
+    "summary": "World Cup 2026 wallchart: print out your own here",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "989af76a2046",
+    "title": "Cape Verde World Cup 2026 team guide",
+    "date": "2026-06-05",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/05/cape-verde-world-cup-2026-team-guide",
+    "summary": "Cape Verde World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "9fe8f4996410",
+    "title": "What is happening with World Cup ticket prices?",
+    "date": "2026-06-04",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
+    "summary": "What is happening with World Cup ticket prices?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "0f214400e38f",
+    "title": "NI's record side show grit beyond their years",
+    "date": "2026-06-04",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c7v9ve8415mo?at_medium=RSS&at_campaign=rss",
+    "summary": "NI's record side show grit beyond their years",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "0cbc62886f92",
+    "title": "Like father like son - international goals run in the family",
+    "date": "2026-06-04",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cwy20rjkn3ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Like father like son - international goals run in the family",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "6dc9d395726f",
+    "title": "Wilkinson spends night in airport but says Wales will be ready",
+    "date": "2026-06-04",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c332ggpx76po?at_medium=RSS&at_campaign=rss",
+    "summary": "Wilkinson spends night in airport but says Wales will be ready",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "650e249ed818",
+    "title": "New Zealand World Cup 2026 team guide",
+    "date": "2026-06-04",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/05/new-zealand-world-cup-2026-team-guide",
+    "summary": "New Zealand World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "149d4a98f3b2",
+    "title": "Lionesses seek to tame Spain again and show they are ready to conquer the world",
+    "date": "2026-06-04",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world",
+    "summary": "Lionesses seek to tame Spain again and show they are ready to conquer the world",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "c84d447a6fe0",
+    "title": "Iran World Cup 2026 team guide",
+    "date": "2026-06-04",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/04/iran-world-cup-2026-team-guide",
+    "summary": "Iran World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
+    "id": "3c14eba743b0",
+    "title": "Football Daily | World Cup Omitted XI: the star players watching from the sofa this summer",
+    "date": "2026-06-04",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/04/football-daily-omitted-xi-geopolitics-world-cup",
+    "summary": "Football Daily | World Cup Omitted XI: the star players watching from the sofa this summer",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
+  },
+  {
     "id": "ac41952352ff",
     "title": "A higher ceiling than Messi? What next for Lamine Yamal?",
     "date": "2026-06-04",
@@ -104,6 +312,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-04T09:27:45.969Z"
+  },
+  {
+    "id": "d94042311a8e",
+    "title": "‘There are low points’: Ibrahima Konaté reveals struggles in year of personal tragedy",
+    "date": "2026-06-03",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy",
+    "summary": "‘There are low points’: Ibrahima Konaté reveals struggles in year of personal tragedy",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-05T09:18:03.032Z"
   },
   {
     "id": "eec8e1f06a0f",
@@ -4147,18 +4368,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-07T09:02:01.592Z"
-  },
-  {
-    "id": "b7ccd2554dde",
-    "title": "'Caption this' - Ferdinand and Carragher's social spat",
-    "date": "2026-05-05",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/clypz9rr412o?at_medium=RSS&at_campaign=rss",
-    "summary": "'Caption this' - Ferdinand and Carragher's social spat",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-06T08:57:24.293Z"
   }
 ];
