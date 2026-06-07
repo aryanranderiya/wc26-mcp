@@ -2,6 +2,253 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "96a6cbc2deea",
+    "title": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
+    "date": "2026-06-07",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
+    "summary": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "96a6cbc2deea",
+    "title": "Clarke's 'got some decisions to make' - but what are they?",
+    "date": "2026-06-07",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
+    "summary": "Clarke's 'got some decisions to make' - but what are they?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "9226045182d5",
+    "title": "Luis de la Fuente: ‘The appreciation for Spanish coaches should have happened ages ago’",
+    "date": "2026-06-07",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/07/luis-de-la-fuente-the-appreciation-for-spain-should-have-happened-ages-ago",
+    "summary": "Luis de la Fuente: ‘The appreciation for Spanish coaches should have happened ages ago’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "1ddfda692eba",
+    "title": "Norway World Cup 2026 team guide",
+    "date": "2026-06-07",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/07/norway-world-cup-2026-team-guide",
+    "summary": "Norway World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "05d2b6d05b80",
+    "title": "‘We looked quite good for 20 minutes’: Tony Popovic content after Socceroos draw with Switzerland",
+    "date": "2026-06-07",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/07/we-looked-quite-good-for-20-minutes-tony-popovic-content-after-socceroos-draw-with-switzerland",
+    "summary": "‘We looked quite good for 20 minutes’: Tony Popovic content after Socceroos draw with Switzerland",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "72cf1fd7cde8",
+    "title": "This was a training game - England & Tuchel now need to get serious",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "This was a training game - England & Tuchel now need to get serious",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "7d7e6eee8017",
+    "title": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
+    "summary": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "845e463c325b",
+    "title": "Wales must be better after Romania woe - Bellamy",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy736ndkknno?at_medium=RSS&at_campaign=rss",
+    "summary": "Wales must be better after Romania woe - Bellamy",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "b912eadfe884",
+    "title": "How to watch the World Cup on the BBC and ITV",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+    "summary": "How to watch the World Cup on the BBC and ITV",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "6d7799647eb8",
+    "title": "Lightning halts pre-World Cup friendly in Texas for two hours",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lightning halts pre-World Cup friendly in Texas for two hours",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "c1639de58c93",
+    "title": "Watch: When Hagi's Romania thrashed Wales",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cedp32xzxx5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Watch: When Hagi's Romania thrashed Wales",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "7d7e6eee8017",
+    "title": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
+    "date": "2026-06-06",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
+    "summary": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "9a018948c5f4",
+    "title": "Thomas Tuchel criticises England’s ‘freestyle’ approach in win over New Zealand",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/07/thomas-tuchel-criticises-englands-freestyle-approach-in-win-over-new-zealand",
+    "summary": "Thomas Tuchel criticises England’s ‘freestyle’ approach in win over New Zealand",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "b89aad4d9cd6",
+    "title": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
+    "summary": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "2c885c6be6bf",
+    "title": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
+    "summary": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "0d2cbbcba243",
+    "title": "Lionesses have no reason to panic despite the humiliation in Spain | Suzanne Wrack",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/06/lionesses-have-no-reason-to-panic-despite-the-humiliation-in-spain",
+    "summary": "Lionesses have no reason to panic despite the humiliation in Spain | Suzanne Wrack",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "d4b1853213ae",
+    "title": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
+    "summary": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "28d2907f3b0c",
+    "title": "Iraq World Cup 2026 team guide",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
+    "summary": "Iraq World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
+    "id": "f3c2b370d31a",
+    "title": "Shattered dreams: best XI from countries not at the World Cup",
+    "date": "2026-06-06",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/06/shattered-dreams-best-xi-from-countries-not-at-the-world-cup",
+    "summary": "Shattered dreams: best XI from countries not at the World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-07T09:10:27.069Z"
+  },
+  {
     "id": "265c26d51923",
     "title": "Iran's football team granted visas to enter US for World Cup, officials say",
     "date": "2026-06-06",
@@ -4407,109 +4654,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-08T08:40:24.197Z"
-  },
-  {
-    "id": "b9a439358fbe",
-    "title": "Shakira unveils official World Cup 2026 song",
-    "date": "2026-05-07",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cgjp5q6xvg9o?at_medium=RSS&at_campaign=rss",
-    "summary": "Shakira unveils official World Cup 2026 song",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-08T08:40:24.197Z"
-  },
-  {
-    "id": "a1a6728bada1",
-    "title": "Villa's Staniforth 'at ease' with decision to retire",
-    "date": "2026-05-07",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cp3pw8v0qzno?at_medium=RSS&at_campaign=rss",
-    "summary": "Villa's Staniforth 'at ease' with decision to retire",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-08T08:40:24.197Z"
-  },
-  {
-    "id": "02cf8849b296",
-    "title": "Donald Trump says he ‘wouldn’t pay’ four figures for World Cup matches",
-    "date": "2026-05-07",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/07/donald-trump-world-cup-ticket-prices",
-    "summary": "Donald Trump says he ‘wouldn’t pay’ four figures for World Cup matches",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-08T08:40:24.197Z"
-  },
-  {
-    "id": "b93d1dfad59a",
-    "title": "Bev Priestman: ‘You become very isolated so I’ve loved getting back on the pitch’",
-    "date": "2026-05-07",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/07/bev-priestman-wellington-phoenix-canada-olympics-spy-scandal",
-    "summary": "Bev Priestman: ‘You become very isolated so I’ve loved getting back on the pitch’",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-08T08:40:24.197Z"
-  },
-  {
-    "id": "50f2451b341d",
-    "title": "FIFA extends Prestianni ban to World Cup matches",
-    "date": "2026-05-07",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/48692428/fifa-extends-uefa-ban-argentina-gianluca-prestianni-world-cup",
-    "summary": "FIFA extends Prestianni ban to World Cup matches",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-07T09:02:01.592Z"
-  },
-  {
-    "id": "09d23633ef72",
-    "title": "Victorian government overturns World Cup venue ban",
-    "date": "2026-05-07",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c1m2n93y927o?at_medium=RSS&at_campaign=rss",
-    "summary": "Victorian government overturns World Cup venue ban",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-07T09:02:01.592Z"
-  },
-  {
-    "id": "60adad2a092d",
-    "title": "Listen: Who will be on Scotland's managerial merry-go-round?",
-    "date": "2026-05-07",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0njscpx?at_medium=RSS&at_campaign=rss",
-    "summary": "Listen: Who will be on Scotland's managerial merry-go-round?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-07T09:02:01.592Z"
-  },
-  {
-    "id": "4e061e417335",
-    "title": "Michael Carrick has the light touch Manchester United need for next chapter | Jonathan Liew",
-    "date": "2026-05-07",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/07/michael-carrick-has-the-light-touch-manchester-united-need-for-next-chapter",
-    "summary": "Michael Carrick has the light touch Manchester United need for next chapter | Jonathan Liew",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-07T09:02:01.592Z"
   }
 ];
