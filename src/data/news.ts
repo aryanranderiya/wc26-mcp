@@ -2,6 +2,266 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "ef8e4f2fad96",
+    "title": "World Cup Rank: The 50 best players in the 2026 to...",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
+    "summary": "World Cup Rank: The 50 best players in the 2026 to...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "94c51c41f318",
+    "title": "U.S. defender Richards full participant on Monday",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49002362/united-states-defender-richards-full-participant-monday",
+    "summary": "U.S. defender Richards full participant on Monday",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "dcb0434da9cf",
+    "title": "Eriksen: 'My recovery has started'",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49001056/christian-eriksen-collapse-heart-condition-denmark-recovery",
+    "summary": "Eriksen: 'My recovery has started'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "57cbd31a1c8f",
+    "title": "Argentina to avoid 'risks' with Messi set to play",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49004047/argentina-avoid-risks-messi-play-friendly",
+    "summary": "Argentina to avoid 'risks' with Messi set to play",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "08285f37ca21",
+    "title": "Brazil: MRI shows Neymar making 'good progress'",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49002184/brazil-mri-neymar-good-progress-injury",
+    "summary": "Brazil: MRI shows Neymar making 'good progress'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "5de029a97da2",
+    "title": "Leão defends red-card punch to 'protect teammate'",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/48999003/portugal-rafael-leao-defends-punching-ivan-roman-protecting-teammate",
+    "summary": "Leão defends red-card punch to 'protect teammate'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "27118842d650",
+    "title": "👀All you need to know about 48 World Cup teams",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/48871263/world-cup-2026-key-players-facts-expectations-fixtures-odds-all-48-teams",
+    "summary": "👀All you need to know about 48 World Cup teams",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "88828b097bbb",
+    "title": "The World Cup record that will be broken three tim...",
+    "date": "2026-06-09",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek",
+    "summary": "The World Cup record that will be broken three tim...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "81a67e94f680",
+    "title": "Why France's Olise is moving into Ballon d'Or picture",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/articles/cx2k50v9zyxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why France's Olise is moving into Ballon d'Or picture",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "4c95859e17aa",
+    "title": "'Diogo will be with you' - Jota's widow writes to Robertson ",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c3dyvyy8g5vo?at_medium=RSS&at_campaign=rss",
+    "summary": "'Diogo will be with you' - Jota's widow writes to Robertson ",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "d44a5e6d5dc2",
+    "title": "Scotland's fateful 1978 World Cup campaign still resonates",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c626v3y3jz4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland's fateful 1978 World Cup campaign still resonates",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "2506054dab89",
+    "title": "Crespo on Messi, returning to England and life as a manager",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cp369y3z7ddo?at_medium=RSS&at_campaign=rss",
+    "summary": "Crespo on Messi, returning to England and life as a manager",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "cf474d8c95d4",
+    "title": "'You're paid to make that decision' – Eriksson's midfield dilemma",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/clypzx6kvgpo?at_medium=RSS&at_campaign=rss",
+    "summary": "'You're paid to make that decision' – Eriksson's midfield dilemma",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "a15e8047f936",
+    "title": "Netherlands' Timber out of World Cup with injury",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o?at_medium=RSS&at_campaign=rss",
+    "summary": "Netherlands' Timber out of World Cup with injury",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "1100b1f8faf5",
+    "title": "Norway boss brands Scotland's Clarke 'unprofessional'",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c17ylw8vz05o?at_medium=RSS&at_campaign=rss",
+    "summary": "Norway boss brands Scotland's Clarke 'unprofessional'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "241dbceaf8f6",
+    "title": "Ex-England midfielder Dyer named new Southend boss",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c9d33n2dexyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Ex-England midfielder Dyer named new Southend boss",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "4b7f65758d3e",
+    "title": "Rowing boats & regrets - Scotland's undefeated 1974 World Cup campaign",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cpdp7lyx432o?at_medium=RSS&at_campaign=rss",
+    "summary": "Rowing boats & regrets - Scotland's undefeated 1974 World Cup campaign",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "2d30767e86c4",
+    "title": "How Emslie went from giving birth to World Cup qualifiers inside six months",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cx23kj5814po?at_medium=RSS&at_campaign=rss",
+    "summary": "How Emslie went from giving birth to World Cup qualifiers inside six months",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "9562874b1693",
+    "title": "Wilkinson reveals Wales plane was hit by lightning",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cly9v1r2077o?at_medium=RSS&at_campaign=rss",
+    "summary": "Wilkinson reveals Wales plane was hit by lightning",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
+    "id": "d9c324ac6f1e",
+    "title": "Walcott & Defoe’s 2006 World Cup fallout",
+    "date": "2026-06-08",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nh9btw?at_medium=RSS&at_campaign=rss",
+    "summary": "Walcott & Defoe’s 2006 World Cup fallout",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-09T09:18:13.582Z"
+  },
+  {
     "id": "34938a46959a",
     "title": "Predicting how all 48 men's World Cup teams will d...",
     "date": "2026-06-08",
@@ -4797,44 +5057,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-10T08:43:37.221Z"
-  },
-  {
-    "id": "d45767ca498f",
-    "title": "‘Keep fighting for the badge’: Arbeloa makes passionate defence of Real Madrid fight duo",
-    "date": "2026-05-09",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/09/keep-fighting-for-the-badge-arbeloa-makes-passionate-defence-of-real-madrid-fight-duo",
-    "summary": "‘Keep fighting for the badge’: Arbeloa makes passionate defence of Real Madrid fight duo",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-10T08:43:37.221Z"
-  },
-  {
-    "id": "4a88314ade6d",
-    "title": "Messi: Neymar one of best, has to be at WCup",
-    "date": "2026-05-09",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/48712889/lionel-messi-brazil-neymar-one-best-world-cup",
-    "summary": "Messi: Neymar one of best, has to be at WCup",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-09T08:39:39.200Z"
-  },
-  {
-    "id": "acc2ea5933ff",
-    "title": "Uruguay's Suarez 'would never say no' to return",
-    "date": "2026-05-09",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c0m29je332wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Uruguay's Suarez 'would never say no' to return",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-09T08:39:39.200Z"
   }
 ];
