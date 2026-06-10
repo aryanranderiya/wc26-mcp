@@ -2,6 +2,266 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "8125227f570c",
+    "title": "Messi scores in cameo in front of 88K in Alabama",
+    "date": "2026-06-10",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/report/_/gameId/401867950",
+    "summary": "Messi scores in cameo in front of 88K in Alabama",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "fbdc3441900e",
+    "title": "Texas AG probes FIFA over WC ticket practices",
+    "date": "2026-06-10",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49012713/texas-joins-ny-nj-california-probes-fifa-world-cup-ticket-prices",
+    "summary": "Texas AG probes FIFA over WC ticket practices",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "b632f00d069c",
+    "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The wild hip-hop parties that started Tuchel's journey to England boss",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "b4258499c138",
+    "title": "Why this World Cup will showcase 'different Steve Clarke'",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy5vy5w52wxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why this World Cup will showcase 'different Steve Clarke'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "7e958feb4f36",
+    "title": "Scotland 'living dream' thanks to 'humble' superstar Weir",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/crr899ke177o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland 'living dream' thanks to 'humble' superstar Weir",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "5b8da1753944",
+    "title": "World Cup 1982: Stein, Narey, Brazil & being a cartoon character",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c0l25wp3zdpo?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup 1982: Stein, Narey, Brazil & being a cartoon character",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "b4258499c138",
+    "title": "Why this World Cup will showcase 'different Steve Clarke'",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy5vy5w52wxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why this World Cup will showcase 'different Steve Clarke'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "7e958feb4f36",
+    "title": "Scotland 'living dream' thanks to 'humble' superstar Weir",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/crr899ke177o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland 'living dream' thanks to 'humble' superstar Weir",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "3b598445d165",
+    "title": "Podcast: Why this Scotland squad feels different",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nr357v?at_medium=RSS&at_campaign=rss",
+    "summary": "Podcast: Why this Scotland squad feels different",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "5b8da1753944",
+    "title": "World Cup 1982: Stein, Narey, Brazil & being a cartoon character",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c0l25wp3zdpo?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup 1982: Stein, Narey, Brazil & being a cartoon character",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "7e958feb4f36",
+    "title": "Scotland 'living dream' thanks to 'humble' superstar Weir",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/crr899ke177o?at_medium=RSS&at_campaign=rss",
+    "summary": "Scotland 'living dream' thanks to 'humble' superstar Weir",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "45fb9f33c2ec",
+    "title": "Fresh faces to managerial mayhem - NI's qualifying campaign",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cpv32vznj21o?at_medium=RSS&at_campaign=rss",
+    "summary": "Fresh faces to managerial mayhem - NI's qualifying campaign",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "823669678aea",
+    "title": "England miss out on automatic World Cup spot - so what happens now?",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
+    "summary": "England miss out on automatic World Cup spot - so what happens now?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "d4f72b562255",
+    "title": "Caution over Saka as Tuchel says England must dare to dream",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Caution over Saka as Tuchel says England must dare to dream",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "579c5a3924e9",
+    "title": "Watch: Weir scores four as Scotland beat Israel to win group",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/videos/c0ky8873nr5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Watch: Weir scores four as Scotland beat Israel to win group",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "1c1d99618ecf",
+    "title": "Highlights: Wales beat Czech Republic 3-1 to top group",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cm2r0828xleo?at_medium=RSS&at_campaign=rss",
+    "summary": "Highlights: Wales beat Czech Republic 3-1 to top group",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "986d41354752",
+    "title": "Highlights: Switzerland sweep aside Northern Ireland",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cp8lxx2ly5do?at_medium=RSS&at_campaign=rss",
+    "summary": "Highlights: Switzerland sweep aside Northern Ireland",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "bc452321628c",
+    "title": "Pain in Grenoble but hope for Irish as play-offs loom",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c62144y5yz4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Pain in Grenoble but hope for Irish as play-offs loom",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "6b19d8d82b2b",
+    "title": "Fifa working to resolve revoked Iran tickets",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
+    "summary": "Fifa working to resolve revoked Iran tickets",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "699861d838b6",
+    "title": "Ngumoha to leave England squad having made mark",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cddl48g7d94o?at_medium=RSS&at_campaign=rss",
+    "summary": "Ngumoha to leave England squad having made mark",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
     "id": "ef8e4f2fad96",
     "title": "World Cup Rank: The 50 best players in the 2026 to...",
     "date": "2026-06-09",
@@ -5005,57 +5265,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-11T09:20:16.701Z"
-  },
-  {
-    "id": "20fb978cc74e",
-    "title": "World Cup debutants to wear collectable patches on shirts",
-    "date": "2026-05-10",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cqjp7enez4yo?at_medium=RSS&at_campaign=rss",
-    "summary": "World Cup debutants to wear collectable patches on shirts",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-11T09:20:16.701Z"
-  },
-  {
-    "id": "a027a19dde3e",
-    "title": "Fifa World Cup matches face heightened terror risk in US amid Iran conflict",
-    "date": "2026-05-10",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/10/fifa-world-cup-terrorism-risk-iran-war",
-    "summary": "Fifa World Cup matches face heightened terror risk in US amid Iran conflict",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-11T09:20:16.701Z"
-  },
-  {
-    "id": "ace747392ea6",
-    "title": "How could extreme weather affect World Cup 2026?",
-    "date": "2026-05-10",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
-    "summary": "How could extreme weather affect World Cup 2026?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-10T08:43:37.221Z"
-  },
-  {
-    "id": "8f518216cba1",
-    "title": "Is the Premier League starting to gobble up Uefa’s lower-tier competitions? | Nick Ames",
-    "date": "2026-05-10",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/10/is-premier-league-gobble-up-uefa-lower-tier-competitions",
-    "summary": "Is the Premier League starting to gobble up Uefa’s lower-tier competitions? | Nick Ames",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-10T08:43:37.221Z"
   }
 ];
