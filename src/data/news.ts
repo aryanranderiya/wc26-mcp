@@ -2,6 +2,201 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "35dff6d8ca62",
+    "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&at_campaign=rss",
+    "summary": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "0e7e2c829036",
+    "title": "Germany players will pay for 600 fans to travel to game",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c9v2nvm02llo?at_medium=RSS&at_campaign=rss",
+    "summary": "Germany players will pay for 600 fans to travel to game",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "d5988864afc5",
+    "title": "World Cup 2026: countdown to opener, Tuchel savours England win, Infantino tells fans to ‘chill’ – live",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive",
+    "summary": "World Cup 2026: countdown to opener, Tuchel savours England win, Infantino tells fans to ‘chill’ – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "2a7cc8cb7827",
+    "title": "Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/jude-bellingham-england-world-cup-opener-kane-tuchel-costa-rica-analysis",
+    "summary": "Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "11ea9a09988d",
+    "title": "Don’t have time to watch 72 World Cup group games? Here are 10 not to miss",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/world-cup-group-games-10-not-miss-scotland-brazil-netherlands-japan-france-senegal",
+    "summary": "Don’t have time to watch 72 World Cup group games? Here are 10 not to miss",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "5179f649795b",
+    "title": "Panama World Cup 2026 team guide",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/panama-world-cup-2026-team-guide",
+    "summary": "Panama World Cup 2026 team guide",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "29b804f6ba46",
+    "title": "Striker Mo Touré sends injury scare through Socceroos camp on eve of World Cup",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/mo-toure-injury-scare-world-cup-socceroos-striker",
+    "summary": "Striker Mo Touré sends injury scare through Socceroos camp on eve of World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "59d356739e17",
+    "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "1cc96d86cbfd",
+    "title": "Rashford future uncertain as Barca deal deadline looms",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c3ryx74peyeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Rashford future uncertain as Barca deal deadline looms",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "cd551db4021c",
+    "title": "Brother's memory inspires Williams for World Cup opener",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cx21lpdl4r6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Brother's memory inspires Williams for World Cup opener",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "59d356739e17",
+    "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "597418dc1d93",
+    "title": "Why are so few women reaching the top in coaching?",
+    "date": "2026-06-10",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cx212lz420wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why are so few women reaching the top in coaching?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "ea83d6d5a593",
+    "title": "Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
+    "date": "2026-06-10",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not",
+    "summary": "Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "e4c238fbbcaa",
+    "title": "Hayes describes ‘experience I will never forget’ as Brazil given eight red cards in loss to USWNT",
+    "date": "2026-06-10",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/09/uswnt-brazil-friendly-fortaleza-sophia-wilson-own-goal",
+    "summary": "Hayes describes ‘experience I will never forget’ as Brazil given eight red cards in loss to USWNT",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "231c5a309afe",
+    "title": "World Cup 2026 preview: Groups I-L – Football Weekly",
+    "date": "2026-06-10",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/audio/2026/jun/10/world-cup-2026-preview-groups-i-l-football-weekly",
+    "summary": "World Cup 2026 preview: Groups I-L – Football Weekly",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
     "id": "8125227f570c",
     "title": "Messi scores in cameo in front of 88K in Alabama",
     "date": "2026-06-10",
@@ -156,6 +351,32 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "679f045f61d1",
+    "title": "Follow World Cup 2026 with live lock screen updates on the BBC Sport app",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgz23p2q2jo?at_medium=RSS&at_campaign=rss",
+    "summary": "Follow World Cup 2026 with live lock screen updates on the BBC Sport app",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
+  },
+  {
+    "id": "e6dd431992a2",
+    "title": "Set up BBC Sport website and app to show you more Scotland this World Cup",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cdxp35lp7n5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Set up BBC Sport website and app to show you more Scotland this World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-11T09:39:09.110Z"
   },
   {
     "id": "823669678aea",
@@ -5174,96 +5395,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "2d5b5e5ee1b3",
-    "title": "‘As good as any feeling I had in football’: Nigel Martyn on swapping goalkeeping for a red England cricket cap",
-    "date": "2026-05-11",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/may/11/nigel-martyn-former-england-goalkeeper-leeds-everton-crystal-palace-seniors-cricket",
-    "summary": "‘As good as any feeling I had in football’: Nigel Martyn on swapping goalkeeping for a red England cricket cap",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-12T09:06:20.270Z"
-  },
-  {
-    "id": "62dd953203ac",
-    "title": "Soaring World Cup ticket prices for players’ families and guests leave several FAs stunned",
-    "date": "2026-05-11",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/11/world-cup-2026-ticket-prices-fifa-sport-politics",
-    "summary": "Soaring World Cup ticket prices for players’ families and guests leave several FAs stunned",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-12T09:06:20.270Z"
-  },
-  {
-    "id": "e4b3821eea04",
-    "title": "West Ham to lodge complaint with referee chiefs over disallowed goal against Arsenal",
-    "date": "2026-05-11",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/11/west-ham-complain-referee-disallowed-goal-arsenal-pgmo",
-    "summary": "West Ham to lodge complaint with referee chiefs over disallowed goal against Arsenal",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-12T09:06:20.270Z"
-  },
-  {
-    "id": "41ca45d05afe",
-    "title": "Arsenal edge closer to title and ‘spygate’ overshadows playoffs | Football Weekly video",
-    "date": "2026-05-11",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/may/11/arsenal-edge-closer-to-title-and-spygate-overshadows-playoffs-football-weekly-video",
-    "summary": "Arsenal edge closer to title and ‘spygate’ overshadows playoffs | Football Weekly video",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-12T09:06:20.270Z"
-  },
-  {
-    "id": "9f351c2cf236",
-    "title": "New England’s Revolution are a surprise contender: MLS weekend wrap",
-    "date": "2026-05-11",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/11/mls-weekend-wrap-new-england-revolution-james-rodriguez-minnesota-united",
-    "summary": "New England’s Revolution are a surprise contender: MLS weekend wrap",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-12T09:06:20.270Z"
-  },
-  {
-    "id": "221471df7695",
-    "title": "The summer a golden generation lost its shine",
-    "date": "2026-05-11",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&at_campaign=rss",
-    "summary": "The summer a golden generation lost its shine",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-11T09:20:16.701Z"
-  },
-  {
-    "id": "2a2b6e33c3aa",
-    "title": "How the 'WAGs' came to define England's 2006 World Cup campaign",
-    "date": "2026-05-11",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/videos/cdrpx2k233do?at_medium=RSS&at_campaign=rss",
-    "summary": "How the 'WAGs' came to define England's 2006 World Cup campaign",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-11T09:20:16.701Z"
   }
 ];
