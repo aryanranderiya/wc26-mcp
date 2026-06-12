@@ -2,6 +2,188 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "e38f5702a754",
+    "title": "Could one win get Scotland out of World Cup group?",
+    "date": "2026-06-12",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c0r9v911g9zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Could one win get Scotland out of World Cup group?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "8b010b7c596a",
+    "title": "Haiti's record scorer on Scotland link & escaping Iran",
+    "date": "2026-06-12",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c936y13v7vzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Haiti's record scorer on Scotland link & escaping Iran",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "241ed032ccc5",
+    "title": "World Cup 2026: Mexico off to winning start; empty seats in Guadalajara; USA and Canada enter fray – live",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
+    "summary": "World Cup 2026: Mexico off to winning start; empty seats in Guadalajara; USA and Canada enter fray – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "1d75d2a1d2e3",
+    "title": "Triumph at the Azteca offers respite from strife on Mexico City’s streets  | Pablo Iglesias Maurer",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026",
+    "summary": "Triumph at the Azteca offers respite from strife on Mexico City’s streets  | Pablo Iglesias Maurer",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "7de17b79ce84",
+    "title": "South Korea get off to winning start after rallying from goal down to beat Czechia",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/12/south-korea-czechia-world-cup-2026-group-a-match-report",
+    "summary": "South Korea get off to winning start after rallying from goal down to beat Czechia",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "f7dd1aa417d2",
+    "title": "Julen Lopetegui: ‘Going to the World Cup just for the sake of going is stupid’",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/12/julen-lopetegui-going-to-the-world-cup-just-for-the-sake-of-going-is-stupid",
+    "summary": "Julen Lopetegui: ‘Going to the World Cup just for the sake of going is stupid’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "801cda9698dc",
+    "title": "Three red cards shown as Mexico beat South Africa in World Cup opener",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
+    "summary": "Three red cards shown as Mexico beat South Africa in World Cup opener",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "58d8a0ce4d48",
+    "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "c4af920874ed",
+    "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "8beebbd83f22",
+    "title": "Three key issues Celtic and O'Neill must tackle",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cm209rdy8eko?at_medium=RSS&at_campaign=rss",
+    "summary": "Three key issues Celtic and O'Neill must tackle",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "b83a5073ecaf",
+    "title": "How to watch highlights of World Cup matches?",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+    "summary": "How to watch highlights of World Cup matches?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "8adaf3ce8fe7",
+    "title": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
+    "date": "2026-06-11",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c62xqg7l6w9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "a4cf27c771e8",
+    "title": "Elliot Anderson on the rise as face of England amid Manchester City transfer talk",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/elliot-anderson-england-2026-world-cup-thomas-tuchel-nottingham-forest-manchester-city-transfer",
+    "summary": "Elliot Anderson on the rise as face of England amid Manchester City transfer talk",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
+    "id": "7915f34433fd",
+    "title": "Welcome to Trump’s World Cup, a depressingly angry version of football uniting the planet | Barney Ronay",
+    "date": "2026-06-11",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/11/donald-trump-world-cup-ted-lasso-usa",
+    "summary": "Welcome to Trump’s World Cup, a depressingly angry version of football uniting the planet | Barney Ronay",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
+  },
+  {
     "id": "35dff6d8ca62",
     "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
     "date": "2026-06-11",
@@ -351,6 +533,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "3b4ca61c9ccb",
+    "title": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
+    "date": "2026-06-09",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe",
+    "summary": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-12T09:33:09.663Z"
   },
   {
     "id": "679f045f61d1",
@@ -5260,136 +5455,6 @@ export const news: NewsItem[] = [
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/may/13/ted-lasso-cristo-fernandez-contract-professional-us-soccer-club",
     "summary": "Ted Lasso actor Cristo Fernández signs contract with professional US club",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "5b5dd5fd0c14",
-    "title": "Tuchel submits 55-man provisional World Cup squad",
-    "date": "2026-05-12",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c0e2p7l2w0no?at_medium=RSS&at_campaign=rss",
-    "summary": "Tuchel submits 55-man provisional World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "3c17cf8b1075",
-    "title": "White out for season and set to miss World Cup",
-    "date": "2026-05-12",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c0m28g07m39o?at_medium=RSS&at_campaign=rss",
-    "summary": "White out for season and set to miss World Cup",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "97364169f1a8",
-    "title": "Isak and Gyokeres named in Sweden World Cup squad",
-    "date": "2026-05-12",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c3r29z5yz79o?at_medium=RSS&at_campaign=rss",
-    "summary": "Isak and Gyokeres named in Sweden World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "85164d2acd2f",
-    "title": "Scotland to play Israel behind closed doors in Hungary ",
-    "date": "2026-05-12",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c1j2w09rlwxo?at_medium=RSS&at_campaign=rss",
-    "summary": "Scotland to play Israel behind closed doors in Hungary ",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "632edc682a93",
-    "title": "Guardiola wants City players to raise their game rather than trust ‘flip of a coin’ officials",
-    "date": "2026-05-12",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/12/guardiola-wants-city-players-to-raise-their-game-rather-than-trust-flip-of-a-coin-officials",
-    "summary": "Guardiola wants City players to raise their game rather than trust ‘flip of a coin’ officials",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "df6db2326630",
-    "title": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
-    "date": "2026-05-12",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
-    "summary": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "30133291d51a",
-    "title": "Dick Advocaat returns to Curaçao job in time for World Cup 2026 adventure",
-    "date": "2026-05-12",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/12/dick-advocaat-returns-curacao-world-cup-2026-adventure",
-    "summary": "Dick Advocaat returns to Curaçao job in time for World Cup 2026 adventure",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "243476ed1f7e",
-    "title": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe",
-    "date": "2026-05-12",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
-    "summary": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "d5ed3dd71cd6",
-    "title": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? – video",
-    "date": "2026-05-12",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
-    "summary": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? – video",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-13T09:11:07.148Z"
-  },
-  {
-    "id": "8eafd2ad99c0",
-    "title": "I wrote a book about the last 40 years of US men’s soccer. Here is what I learned | Leander Schaerlaeckens",
-    "date": "2026-05-12",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
-    "summary": "I wrote a book about the last 40 years of US men’s soccer. Here is what I learned | Leander Schaerlaeckens",
     "categories": [
       "general"
     ],
