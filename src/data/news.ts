@@ -2,6 +2,162 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "a66ae4710b47",
+    "title": "Was this offside? Technology fault leaves questions over VAR images",
+    "date": "2026-06-14",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
+    "summary": "Was this offside? Technology fault leaves questions over VAR images",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "ac721b8634cb",
+    "title": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
+    "date": "2026-06-14",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "0070a2a31b11",
+    "title": "'A must win game and we won' - Clarke ",
+    "date": "2026-06-14",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cwyljn95e4jo?at_medium=RSS&at_campaign=rss",
+    "summary": "'A must win game and we won' - Clarke ",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "d53bc873aa5f",
+    "title": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
+    "summary": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "6c9c04664adc",
+    "title": "Brazil find that everything good flows through Viní of New Jersey",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/vinicius-junior-brazil-world-cup-2026",
+    "summary": "Brazil find that everything good flows through Viní of New Jersey",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "283e6a922e21",
+    "title": "England get rapturous welcome as they settle in to sprawling Kansas City home",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/england-world-cup-training-base-kansas-city-swope",
+    "summary": "England get rapturous welcome as they settle in to sprawling Kansas City home",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "adf491500232",
+    "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
+    "summary": "DR Congo bring style and pride to the World Cup after wholesome welcome",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "7465c3ecc14e",
+    "title": "Free agent Wales players put themselves in shop window",
+    "date": "2026-06-13",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cze9nx02llko?at_medium=RSS&at_campaign=rss",
+    "summary": "Free agent Wales players put themselves in shop window",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "677b28920987",
+    "title": "Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
+    "date": "2026-06-13",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/13/qatar-switzerland-world-cup-match-report",
+    "summary": "Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "728e5bffad70",
+    "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
+    "date": "2026-06-13",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
+    "summary": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "c91f3c00e5ed",
+    "title": "Injury deprived me of chance to play so I am going to the World Cup to support Brazil | Rodrygo",
+    "date": "2026-06-13",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/13/rodrygo-world-cup-injury-support-brazil",
+    "summary": "Injury deprived me of chance to play so I am going to the World Cup to support Brazil | Rodrygo",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "4fc6f56e8a48",
+    "title": "Why football does not remember the name of its greatest ever Jewish player",
+    "date": "2026-06-13",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
+    "summary": "Why football does not remember the name of its greatest ever Jewish player",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
     "id": "2c0b9c2b916e",
     "title": "Ancelotti: 'Beautiful moment' to lead Brazil at WC...",
     "date": "2026-06-13",
@@ -130,6 +286,45 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-13T09:11:54.244Z"
+  },
+  {
+    "id": "b7023feba2e8",
+    "title": "Kenny Jackett, former Wales and Watford player and successful manager, dies aged 64",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/12/kenny-jackett-dies-watford-wales-millwall-wolves",
+    "summary": "Kenny Jackett, former Wales and Watford player and successful manager, dies aged 64",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "0e9bce3fd150",
+    "title": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup",
+    "summary": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
+  },
+  {
+    "id": "7c90b88db2e9",
+    "title": "Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
+    "date": "2026-06-12",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/12/football-daily-newsletter-mexico-azteca-world-cup-2026-opener",
+    "summary": "Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
   },
   {
     "id": "5cb72517ebb0",
@@ -1352,6 +1547,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-08T09:45:21.006Z"
+  },
+  {
+    "id": "6796d9d8c9eb",
+    "title": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
+    "date": "2026-06-07",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/06/usa-brazil-women-friendly-sophia-wilson-return",
+    "summary": "Sophia Wilson’s return spoiled as USA women beaten by Brazil in friendly",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-14T09:13:22.489Z"
   },
   {
     "id": "d1f0b59c344b",
@@ -5551,96 +5759,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-15T09:13:28.929Z"
-  },
-  {
-    "id": "4b5f26db6790",
-    "title": "Ancelotti extends Brazil contract until 2030",
-    "date": "2026-05-14",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/ce8p7ejjdvvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Ancelotti extends Brazil contract until 2030",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-15T09:13:28.929Z"
-  },
-  {
-    "id": "7e846ce2a7a3",
-    "title": "Mbappe and Dembele lead France World Cup squad",
-    "date": "2026-05-14",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c9d307x3q54o?at_medium=RSS&at_campaign=rss",
-    "summary": "Mbappe and Dembele lead France World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-15T09:13:28.929Z"
-  },
-  {
-    "id": "623a91cec3d5",
-    "title": "How Tuchel wowed the FA during secret meeting at Munich airport",
-    "date": "2026-05-14",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/14/thomas-tuchel-england-fa-rob-draper-book-extract",
-    "summary": "How Tuchel wowed the FA during secret meeting at Munich airport",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-15T09:13:28.929Z"
-  },
-  {
-    "id": "9bc184266517",
-    "title": "Arteta hoping Timber will win fitness race for Champions League final",
-    "date": "2026-05-14",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/14/mikel-arteta-arsenal-jurrien-timber-champions-league-final",
-    "summary": "Arteta hoping Timber will win fitness race for Champions League final",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-15T09:13:28.929Z"
-  },
-  {
-    "id": "a7d3e6ee7df9",
-    "title": "How the Kinetic Foundation helped launch McFarlane’s rise at Chelsea",
-    "date": "2026-05-14",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/14/how-the-kinetic-foundation-helped-launch-mcfarlanes-meteoric-rise",
-    "summary": "How the Kinetic Foundation helped launch McFarlane’s rise at Chelsea",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-15T09:13:28.929Z"
-  },
-  {
-    "id": "39bb8da8a265",
-    "title": "US drops $15,000 visa deposit for foreign fans with World Cup tickets",
-    "date": "2026-05-14",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/news/articles/c392dj4xwy4o?at_medium=RSS&at_campaign=rss",
-    "summary": "US drops $15,000 visa deposit for foreign fans with World Cup tickets",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-14T09:04:42.251Z"
-  },
-  {
-    "id": "bafc5e1bf83b",
-    "title": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?",
-    "date": "2026-05-14",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
-    "summary": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-14T09:04:42.251Z"
   }
 ];
