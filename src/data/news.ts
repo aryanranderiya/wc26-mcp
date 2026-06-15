@@ -2,6 +2,188 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "86a0d2689c9b",
+    "title": "Gyokeres & Isak score as Sweden put five past Tunisia",
+    "date": "2026-06-15",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c20ymjjl8yko?at_medium=RSS&at_campaign=rss",
+    "summary": "Gyokeres & Isak score as Sweden put five past Tunisia",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "d4d08e12dcc7",
+    "title": "Recruited on LinkedIn, set to face Spain - the Dublin-born Cape Verde star",
+    "date": "2026-06-15",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss",
+    "summary": "Recruited on LinkedIn, set to face Spain - the Dublin-born Cape Verde star",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "91d5a72557d9",
+    "title": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live",
+    "date": "2026-06-15",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live",
+    "summary": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "25cb2a60e741",
+    "title": "Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia",
+    "date": "2026-06-15",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/15/sweden-tunisia-world-cup-match-report",
+    "summary": "Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "0d0cf3f384a3",
+    "title": "Iraq head coach Graham Arnold: ‘We’re capable of doing something that will shock the world’",
+    "date": "2026-06-15",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026",
+    "summary": "Iraq head coach Graham Arnold: ‘We’re capable of doing something that will shock the world’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "97fe1765d947",
+    "title": "Uruguay delayed by plane paperwork as World Cup travel challenges continue",
+    "date": "2026-06-15",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/15/uruguay-delayed-by-plane-paperwork-as-world-cup-travel-challenges-continue",
+    "summary": "Uruguay delayed by plane paperwork as World Cup travel challenges continue",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "654a5c983eac",
+    "title": "'I'll be staying out of the way' - Southgate on World Cup punditry",
+    "date": "2026-06-14",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cp8lv1png5no?at_medium=RSS&at_campaign=rss",
+    "summary": "'I'll be staying out of the way' - Southgate on World Cup punditry",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "7c63bc6bd326",
+    "title": "England-Croatia referee was called Grade E by Tuchel",
+    "date": "2026-06-14",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&at_campaign=rss",
+    "summary": "England-Croatia referee was called Grade E by Tuchel",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "fead76f0eea8",
+    "title": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/netherlands-japan-world-cup-match-report",
+    "summary": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "50ff71addafa",
+    "title": "‘We’re the same as we were then’: bullish Spain confident of repeating Euros success",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/were-the-same-as-we-were-then-spain-confident-of-repeating-euros-success",
+    "summary": "‘We’re the same as we were then’: bullish Spain confident of repeating Euros success",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "bdcfa2c240d9",
+    "title": "Vinícius Júnior rescues lacklustre Brazil as Morocco earn deserved World Cup draw",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report",
+    "summary": "Vinícius Júnior rescues lacklustre Brazil as Morocco earn deserved World Cup draw",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "60240341ad0a",
+    "title": "Steve Clarke says pressure on Scotland has eased after victory in ‘must-win game’",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/world-cup-scotland-haiti-steve-clarke",
+    "summary": "Steve Clarke says pressure on Scotland has eased after victory in ‘must-win game’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "00e6f01bdbd0",
+    "title": "Brilliant teenager Bouaddi glides on to big stage with effortless grace for Morocco",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/14/ayyoub-bouaddi-morocco-brazil-world-cup-football-vinicius-junior",
+    "summary": "Brilliant teenager Bouaddi glides on to big stage with effortless grace for Morocco",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
+    "id": "953e8f0d8e89",
+    "title": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006",
+    "date": "2026-06-14",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/blog/2026/jun/14/young-socceroos-inspiring-australians-world-cup",
+    "summary": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
     "id": "a66ae4710b47",
     "title": "Was this offside? Technology fault leaves questions over VAR images",
     "date": "2026-06-14",
@@ -1289,6 +1471,19 @@ export const news: NewsItem[] = [
     "fetched_at": "2026-06-09T09:18:13.582Z"
   },
   {
+    "id": "94db6068dac0",
+    "title": "The Hotspot | ‘This may be our last chance’: rising sea levels threaten Kiribati’s World Cup dream",
+    "date": "2026-06-08",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/sport/2026/jun/08/this-may-be-our-last-chance-rising-sea-levels-threaten-kiribatis-world-cup-dream",
+    "summary": "The Hotspot | ‘This may be our last chance’: rising sea levels threaten Kiribati’s World Cup dream",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
+  },
+  {
     "id": "a15e8047f936",
     "title": "Netherlands' Timber out of World Cup with injury",
     "date": "2026-06-08",
@@ -1924,6 +2119,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-06T09:00:10.279Z"
+  },
+  {
+    "id": "9db14c945e13",
+    "title": "What you need to know about Spain's opponents Cape Verde",
+    "date": "2026-06-05",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgzlv1q453o?at_medium=RSS&at_campaign=rss",
+    "summary": "What you need to know about Spain's opponents Cape Verde",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-15T10:15:37.970Z"
   },
   {
     "id": "c02ea0e579eb",
@@ -5668,96 +5876,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "4a5e7ef27698",
-    "title": "In better form than Kane - why Watkins is no longer being 'written off'",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
-    "summary": "In better form than Kane - why Watkins is no longer being 'written off'",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "e34d7529d09c",
-    "title": "'Out of shape' Lukaku in Belgium World Cup squad",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cpwp17pxvxdo?at_medium=RSS&at_campaign=rss",
-    "summary": "'Out of shape' Lukaku in Belgium World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "364c2f01ea75",
-    "title": "Lamouchi leaves Sassi out of Tunisia World Cup squad",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cy42jjj4gg4o?at_medium=RSS&at_campaign=rss",
-    "summary": "Lamouchi leaves Sassi out of Tunisia World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "47f43f10631c",
-    "title": "Zaha omitted from Ivory Coast World Cup squad",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c9360dwzl2lo?at_medium=RSS&at_campaign=rss",
-    "summary": "Zaha omitted from Ivory Coast World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "c98445b0f6ce",
-    "title": "Isidor and Bellegarde in Haiti World Cup squad",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c242rl3yjp8o?at_medium=RSS&at_campaign=rss",
-    "summary": "Isidor and Bellegarde in Haiti World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "c3bd67f4512c",
-    "title": "Beckham becomes UK's first billionaire sportsman",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/articles/clypx829gwyo?at_medium=RSS&at_campaign=rss",
-    "summary": "Beckham becomes UK's first billionaire sportsman",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-16T08:41:28.140Z"
-  },
-  {
-    "id": "0b51d3554d89",
-    "title": "Injured Mitoma left out of Japan World Cup squad",
-    "date": "2026-05-15",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/ckgpez39k50o?at_medium=RSS&at_campaign=rss",
-    "summary": "Injured Mitoma left out of Japan World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-15T09:13:28.929Z"
   }
 ];
