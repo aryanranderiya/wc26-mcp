@@ -2,6 +2,253 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "c3410579b906",
+    "title": "Scaloni at 'loss for words' on record-setting Mess...",
+    "date": "2026-06-17",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49090349/argentina-scaloni-loss-words-record-setting-messi",
+    "summary": "Scaloni at 'loss for words' on record-setting Mess...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "09df3b230085",
+    "title": "World Cup Daily: NFL star Winston dresses goat as ...",
+    "date": "2026-06-17",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
+    "summary": "World Cup Daily: NFL star Winston dresses goat as ...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "ed6fb2b745da",
+    "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+    "date": "2026-06-17",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+    "summary": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "1f7fd09b30cf",
+    "title": "Cape Verde GK Vozinha stopped favorites Spain ... ...",
+    "date": "2026-06-17",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
+    "summary": "Cape Verde GK Vozinha stopped favorites Spain ... ...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "e90974f5f330",
+    "title": "Tottenham sign Scotland forward Hanson from Villa",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgqrr8wknxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tottenham sign Scotland forward Hanson from Villa",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "388f40fc946b",
+    "title": "Highlights: Haaland scores twice in Norway win over Iraq  ",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Highlights: Haaland scores twice in Norway win over Iraq  ",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "b486e26e628e",
+    "title": "'It's very Bond': Fashion experts on the England squad's off-pitch look",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&at_campaign=rss",
+    "summary": "'It's very Bond': Fashion experts on the England squad's off-pitch look",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "e90974f5f330",
+    "title": "Tottenham sign Scotland forward Hanson from Villa",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvgqrr8wknxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tottenham sign Scotland forward Hanson from Villa",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "4436e1749818",
+    "title": "World Cup 2026: England kick off in Dallas after big-hitting trio make mark – live",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
+    "summary": "World Cup 2026: England kick off in Dallas after big-hitting trio make mark – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "b03d789b9026",
+    "title": "What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/17/lionel-messi-hat-trick-algeria-argentina-world-cup",
+    "summary": "What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "1a8f71476cb7",
+    "title": "Harry Kane’s American dream begins: ‘I’m coming into this in the best way possible’",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/17/harry-kane-american-dream-dallas-world-cup-england",
+    "summary": "Harry Kane’s American dream begins: ‘I’m coming into this in the best way possible’",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "c820956d582b",
+    "title": "Norway’s Erling Haaland punishes Iraq with double on World Cup debut",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/17/iraq-norway-world-cup-group-i-match-report",
+    "summary": "Norway’s Erling Haaland punishes Iraq with double on World Cup debut",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "11fa66dab73a",
+    "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+    "summary": "Up to 15,000 England fans head to Dallas for World Cup opener",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "11907ec134da",
+    "title": "Highlights: Mbappe stars as France beat Senegal",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Highlights: Mbappe stars as France beat Senegal",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "3b9e31ba3fa1",
+    "title": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "f89e578da5c1",
+    "title": "Chalobah replaces injured Livramento for World Cup",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c992n95lgrmo?at_medium=RSS&at_campaign=rss",
+    "summary": "Chalobah replaces injured Livramento for World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "3691438c3015",
+    "title": "What could Scotland learn from Cape Verde as Morocco loom?",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c982g3m5e5lo?at_medium=RSS&at_campaign=rss",
+    "summary": "What could Scotland learn from Cape Verde as Morocco loom?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "3691438c3015",
+    "title": "What could Scotland learn from Cape Verde as Morocco loom?",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c982g3m5e5lo?at_medium=RSS&at_campaign=rss",
+    "summary": "What could Scotland learn from Cape Verde as Morocco loom?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "cadaec39a141",
+    "title": "Weir signs for Champions League runners-up Lyon",
+    "date": "2026-06-16",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cq61ye3g59yo?at_medium=RSS&at_campaign=rss",
+    "summary": "Weir signs for Champions League runners-up Lyon",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
     "id": "e731dcdbeaaf",
     "title": "Spain won't panic yet about Cape Verde draw, but t...",
     "date": "2026-06-16",
@@ -6006,83 +6253,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-18T09:22:37.177Z"
-  },
-  {
-    "id": "60ad8017862d",
-    "title": "Neymar furious as he is wrongly substituted",
-    "date": "2026-05-17",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cvgzk1y0xmeo?at_medium=RSS&at_campaign=rss",
-    "summary": "Neymar furious as he is wrongly substituted",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-18T09:22:37.177Z"
-  },
-  {
-    "id": "a69db3991a93",
-    "title": "Who is pushing for late England World Cup call-up?",
-    "date": "2026-05-17",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c0521vn9d79o?at_medium=RSS&at_campaign=rss",
-    "summary": "Who is pushing for late England World Cup call-up?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-18T09:22:37.177Z"
-  },
-  {
-    "id": "36fe6fa8f010",
-    "title": "Will Wharton be in England's World Cup squad?",
-    "date": "2026-05-17",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/videos/cp8perj6jzro?at_medium=RSS&at_campaign=rss",
-    "summary": "Will Wharton be in England's World Cup squad?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-18T09:22:37.177Z"
-  },
-  {
-    "id": "71bbb1e1079b",
-    "title": "Melia receives first Republic of Ireland call-up",
-    "date": "2026-05-17",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c23211zn4x7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Melia receives first Republic of Ireland call-up",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-18T09:22:37.177Z"
-  },
-  {
-    "id": "b5efdf60b7c1",
-    "title": "Inter poised as Curtis Jones enters final year of Liverpool contract",
-    "date": "2026-05-17",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract",
-    "summary": "Inter poised as Curtis Jones enters final year of Liverpool contract",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-18T09:22:37.177Z"
-  },
-  {
-    "id": "450d539b69a9",
-    "title": "‘Got!’: Panini 1970 World Cup sticker book completed after 56 years",
-    "date": "2026-05-17",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/17/got-panini-1970-world-cup-sticker-book-completed-after-56-years",
-    "summary": "‘Got!’: Panini 1970 World Cup sticker book completed after 56 years",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-17T08:49:30.993Z"
   }
 ];
