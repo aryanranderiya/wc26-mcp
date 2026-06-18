@@ -2,6 +2,201 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "9f33f4b60b95",
+    "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
+    "date": "2026-06-18",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
+    "summary": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "a11a3f73bfba",
+    "title": "What are the patches on some shirts at the World Cup?",
+    "date": "2026-06-18",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cr5jdy59m69o?at_medium=RSS&at_campaign=rss",
+    "summary": "What are the patches on some shirts at the World Cup?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "0433e6f332c5",
+    "title": "World Cup 2026: England turn on the style; Fifa denies ticketless fans breached security – live",
+    "date": "2026-06-18",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
+    "summary": "World Cup 2026: England turn on the style; Fifa denies ticketless fans breached security – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "d6e9ba60d048",
+    "title": "Liverpool beat Newcastle to sign Víctor Muñoz in first signing of Andoni Iraola era",
+    "date": "2026-06-18",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news",
+    "summary": "Liverpool beat Newcastle to sign Víctor Muñoz in first signing of Andoni Iraola era",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "20301ed722a4",
+    "title": "Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory",
+    "date": "2026-06-18",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
+    "summary": "Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "f42923f57e1a",
+    "title": "From frustration to party time: Mexico ready for lift-off after steady start",
+    "date": "2026-06-18",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/18/ceremony-to-celebration-mexico-south-korea-world-cup",
+    "summary": "From frustration to party time: Mexico ready for lift-off after steady start",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "3b03dec23e18",
+    "title": "England hit four in World Cup opener against Croatia ",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
+    "summary": "England hit four in World Cup opener against Croatia ",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "ea3934b8a155",
+    "title": "Cape Verde goalkeeper set to be reunited with his mum",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cape Verde goalkeeper set to be reunited with his mum",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "a444c6193e5f",
+    "title": "Substitute Rashford guides home England's fourth against Croatia",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Substitute Rashford guides home England's fourth against Croatia",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "b5f9d52f588e",
+    "title": "Bellingham scores early in second half to put England 3-2 up",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c20y9dqpz0zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Bellingham scores early in second half to put England 3-2 up",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "8dc897079dd5",
+    "title": "Baturina fires Croatia level against England",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&at_campaign=rss",
+    "summary": "Baturina fires Croatia level against England",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "e760a1b586e2",
+    "title": "DR Congo earn World Cup point against Portugal",
+    "date": "2026-06-17",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
+    "summary": "DR Congo earn World Cup point against Portugal",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "5853de630890",
+    "title": "Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
+    "summary": "Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "0b3b08f54cb4",
+    "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
+    "summary": "All-time greatest: who is the highest goalscorer in World Cup history?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
+    "id": "7775be8e797e",
+    "title": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
+    "date": "2026-06-17",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report",
+    "summary": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
+  },
+  {
     "id": "c3410579b906",
     "title": "Scaloni at 'loss for words' on record-setting Mess...",
     "date": "2026-06-17",
@@ -156,6 +351,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-17T09:46:06.334Z"
+  },
+  {
+    "id": "0be9f5f1df42",
+    "title": "‘Our team is the most oppressed’: Iran coach hits out at Fifa and US over treatment",
+    "date": "2026-06-16",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/16/amir-ghalenoei-iran-coach-mehdi-taremi-fifa-us-world-cup",
+    "summary": "‘Our team is the most oppressed’: Iran coach hits out at Fifa and US over treatment",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
   },
   {
     "id": "11fa66dab73a",
@@ -416,6 +624,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-16T09:53:56.210Z"
+  },
+  {
+    "id": "423520abe1b0",
+    "title": "Crystal Palace confirm Pierre Sage as head coach and plan to back him on transfers",
+    "date": "2026-06-15",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/15/crystal-palace-confirm-pierre-sage-head-coach",
+    "summary": "Crystal Palace confirm Pierre Sage as head coach and plan to back him on transfers",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
   },
   {
     "id": "1c5ed6259e29",
@@ -1664,6 +1885,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-10T09:23:50.519Z"
+  },
+  {
+    "id": "cbc509e4c224",
+    "title": "Get your predictions in before the second round of World Cup group games",
+    "date": "2026-06-09",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
+    "summary": "Get your predictions in before the second round of World Cup group games",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-18T09:38:38.447Z"
   },
   {
     "id": "3b4ca61c9ccb",
@@ -6084,174 +6318,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "95505d46cc3c",
-    "title": "Clarke's key questions for Scotland World Cup squad",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/crmpx8py3y7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Clarke's key questions for Scotland World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "8c53bed83a82",
-    "title": "Neymar included in Brazil's 26-man World Cup squad",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c759vdlyr2wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Neymar included in Brazil's 26-man World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "be26f39b95ab",
-    "title": "World Cup 2026: Every nation's squad as they are announced",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cvgz43lgn15o?at_medium=RSS&at_campaign=rss",
-    "summary": "World Cup 2026: Every nation's squad as they are announced",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "736df1f8dc81",
-    "title": "Giroud, Azpilicueta and McCarthy join BBC World Cup team",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cx21p8lgde8o?at_medium=RSS&at_campaign=rss",
-    "summary": "Giroud, Azpilicueta and McCarthy join BBC World Cup team",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "4ab74f879b9d",
-    "title": "Croatia name Modric, 40, in World Cup squad",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c0m2pvnwymxo?at_medium=RSS&at_campaign=rss",
-    "summary": "Croatia name Modric, 40, in World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "e0334948558f",
-    "title": "Austria include Arnautovic in World Cup squad",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c0l29glg6e0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Austria include Arnautovic in World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "95505d46cc3c",
-    "title": "Clarke's key questions for Scotland World Cup squad",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/crmpx8py3y7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Clarke's key questions for Scotland World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "8c53bed83a82",
-    "title": "Neymar included in Scotland opponents Brazil's 26-man World Cup squad",
-    "date": "2026-05-18",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c759vdlyr2wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Neymar included in Scotland opponents Brazil's 26-man World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "349b249869b4",
-    "title": "Neymar picked in Brazil squad for 2026 World Cup but João Pedro misses out",
-    "date": "2026-05-18",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/19/neymar-brazil-world-cup-2026-squad-picked-joao-pedro",
-    "summary": "Neymar picked in Brazil squad for 2026 World Cup but João Pedro misses out",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "896a66f3ac39",
-    "title": "Luís Castro eclipses famous namesake after taking Levante to verge of safety | Sid Lowe",
-    "date": "2026-05-18",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/18/luis-castro-levante-la-liga-relegation-battle",
-    "summary": "Luís Castro eclipses famous namesake after taking Levante to verge of safety | Sid Lowe",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "04b2c416199f",
-    "title": "Canada’s sports minister hopes World Cup can lead to trade agreement with US and Mexico",
-    "date": "2026-05-18",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/18/canadas-sports-minister-hopes-world-cup-can-lead-to-trade-agreement-with-us-and-mexico",
-    "summary": "Canada’s sports minister hopes World Cup can lead to trade agreement with US and Mexico",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "e856c600ed37",
-    "title": "Cult hero Mancini delivers derby win for Roma after Serie A scheduling nightmare | Nicky Bandini",
-    "date": "2026-05-18",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/18/roma-lazio-rome-derby-serie-a",
-    "summary": "Cult hero Mancini delivers derby win for Roma after Serie A scheduling nightmare | Nicky Bandini",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "13e6e935233d",
-    "title": "Premier League and FA Cup final: 10 talking points from the weekend’s action",
-    "date": "2026-05-18",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action",
-    "summary": "Premier League and FA Cup final: 10 talking points from the weekend’s action",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-18T09:22:37.177Z"
   }
 ];
