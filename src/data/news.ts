@@ -2,6 +2,253 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "27eee6c2e31e",
+    "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a",
+    "summary": "Korea GK gaffe helps Mexico clinch 1st in Group A",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "d9ee1baeefe5",
+    "title": "Canada's Koné stretchered off after hard tackle",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49112391/canada-ismael-kone-stretchered-hard-tackle",
+    "summary": "Canada's Koné stretchered off after hard tackle",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "2363ff9790af",
+    "title": "Aguirre relishes Azteca return after Group A win",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49114368/aguirre-relishes-azteca-knockout-matches-mexico-win-group-a",
+    "summary": "Aguirre relishes Azteca return after Group A win",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "331c5cdaaab7",
+    "title": "Pulisic still training solo a day before U.S. game...",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49109849/usmnt-christian-pulisic-trains-apart-team-again-pochettino-due-address-status",
+    "summary": "Pulisic still training solo a day before U.S. game...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "a60f89558478",
+    "title": "David hat trick leads Canada to historic WC rout",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49112625/canada-qatar-first-world-cup-win-2026-jonathan-david",
+    "summary": "David hat trick leads Canada to historic WC rout",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "b1da30c85353",
+    "title": "World Cup 2026 Power Rankings after one game: U.S....",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49094186/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina",
+    "summary": "World Cup 2026 Power Rankings after one game: U.S....",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "a1f8c6bfa7b8",
+    "title": "Portugal have a Ronaldo problem (again)",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
+    "summary": "Portugal have a Ronaldo problem (again)",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "32ff3a3d3c5d",
+    "title": "A day of tears, scuffles & history as injury mars Canada's moment",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cly7r1zjmmlo?at_medium=RSS&at_campaign=rss",
+    "summary": "A day of tears, scuffles & history as injury mars Canada's moment",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "c1b8204740b7",
+    "title": "Canada score six but historic win marred by Kone injury",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o?at_medium=RSS&at_campaign=rss",
+    "summary": "Canada score six but historic win marred by Kone injury",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "c8d1a0ef0bf8",
+    "title": "Kone injury is a 'huge loss' - Marsch ",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kone injury is a 'huge loss' - Marsch ",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "558945e94bb3",
+    "title": "Tuchel throws first pitch as England enjoy downtime",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&at_campaign=rss",
+    "summary": "Tuchel throws first pitch as England enjoy downtime",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "e58456a84fa2",
+    "title": "World Cup 2026: Koné injury mars Canada rout; Scotland’s ‘big challenge’; USA v Australia buildup – live",
+    "date": "2026-06-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
+    "summary": "World Cup 2026: Koné injury mars Canada rout; Scotland’s ‘big challenge’; USA v Australia buildup – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "05e251b822fd",
+    "title": "‘The cops bought me an egg and cheese muffin’: Boston’s love affair with Tartan Army goes on",
+    "date": "2026-06-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on",
+    "summary": "‘The cops bought me an egg and cheese muffin’: Boston’s love affair with Tartan Army goes on",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "b99ed3c36d87",
+    "title": "South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase",
+    "date": "2026-06-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
+    "summary": "South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "9fd5fa0c76d9",
+    "title": "Players are human beings and social media comments reach us. But the focus has to be on the pitch | Rodrygo",
+    "date": "2026-06-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/19/players-are-human-beings-and-social-media-comments-reach-us-but-the-focus-has-to-be-on-the-pitch",
+    "summary": "Players are human beings and social media comments reach us. But the focus has to be on the pitch | Rodrygo",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "a02a46f2fe6b",
+    "title": "Iran to lodge complaint with Fifa over ‘restrictions imposed’ on team at World Cup",
+    "date": "2026-06-19",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/19/iran-lodge-complaint-fifa-restrictions-world-cup",
+    "summary": "Iran to lodge complaint with Fifa over ‘restrictions imposed’ on team at World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "c09cbf90e46f",
+    "title": "Tuchel's complaints lead to Fifa moving photographers",
+    "date": "2026-06-18",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tuchel's complaints lead to Fifa moving photographers",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "b59d1780852e",
+    "title": "Kane is England's greatest striker, says Lineker",
+    "date": "2026-06-18",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kane is England's greatest striker, says Lineker",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "8d31073ace07",
+    "title": "Beever-Jones set to sign new deal at Chelsea",
+    "date": "2026-06-18",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/czrx8vd2yvdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Beever-Jones set to sign new deal at Chelsea",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
     "id": "9f33f4b60b95",
     "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
     "date": "2026-06-18",
@@ -6123,200 +6370,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "384b98ea6d30",
-    "title": "Meet the 26 players in Scotland’s first men's World Cup squad since 1998",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/extra/o52gmmsnsz/scotland-2026-world-cup-squad-guide?at_medium=RSS&at_campaign=rss",
-    "summary": "Meet the 26 players in Scotland’s first men's World Cup squad since 1998",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "f50b014e7948",
-    "title": "Ronaldo in Portugal squad for record sixth World Cup",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cn4p1332exzo?at_medium=RSS&at_campaign=rss",
-    "summary": "Ronaldo in Portugal squad for record sixth World Cup",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "02120faa425f",
-    "title": "Clarke sticks to plan over future and McBurnie omission",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c70vryz891yo?at_medium=RSS&at_campaign=rss",
-    "summary": "Clarke sticks to plan over future and McBurnie omission",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "090b6f1d0bd5",
-    "title": "No Stone Cold Steve Clarke, but there was - at least - a story or two",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cq5pq9vg3xgo?at_medium=RSS&at_campaign=rss",
-    "summary": "No Stone Cold Steve Clarke, but there was - at least - a story or two",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "97708a7dffb1",
-    "title": "Man Utd midfielder Toone returns to England squad",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c4g8kk1vrdzo?at_medium=RSS&at_campaign=rss",
-    "summary": "Man Utd midfielder Toone returns to England squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "de184e8df7fb",
-    "title": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c4g94rpvx73o?at_medium=RSS&at_campaign=rss",
-    "summary": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "090b6f1d0bd5",
-    "title": "No theatre or curveballs as loyal Clarke puts trust in chosen ones",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cq5pq9vg3xgo?at_medium=RSS&at_campaign=rss",
-    "summary": "No theatre or curveballs as loyal Clarke puts trust in chosen ones",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "02120faa425f",
-    "title": "Clarke sticks to plan over future and McBurnie omission",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c70vryz891yo?at_medium=RSS&at_campaign=rss",
-    "summary": "Clarke sticks to plan over future and McBurnie omission",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "de184e8df7fb",
-    "title": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c4g94rpvx73o?at_medium=RSS&at_campaign=rss",
-    "summary": "'Big game scorer' Stewart and Curtis make Scotland World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "9c9e42256bc1",
-    "title": "Stewart's 'deserved' recall & World Cup disappointment for Miller",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0nm3bj6?at_medium=RSS&at_campaign=rss",
-    "summary": "Stewart's 'deserved' recall & World Cup disappointment for Miller",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "97708a7dffb1",
-    "title": "Man Utd midfielder Toone returns to England squad",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c4g8kk1vrdzo?at_medium=RSS&at_campaign=rss",
-    "summary": "Man Utd midfielder Toone returns to England squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "ed67bd6b0d53",
-    "title": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
-    "date": "2026-05-19",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
-    "summary": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "1683fd18e6ac",
-    "title": "Wiegman tells Mead next move is vital for England prospects as Toone earns recall",
-    "date": "2026-05-19",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/19/wiegman-mead-next-move-vital-england-prospects-toone-recall",
-    "summary": "Wiegman tells Mead next move is vital for England prospects as Toone earns recall",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "8df5ed35cdcd",
-    "title": "Did England 'fake relationships' cost team 2006 World Cup glory?",
-    "date": "2026-05-19",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/videos/ce8pvlez93po?at_medium=RSS&at_campaign=rss",
-    "summary": "Did England 'fake relationships' cost team 2006 World Cup glory?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
-  },
-  {
-    "id": "e4e942c9d648",
-    "title": "‘Akinfenwa had me in a headlock’: how Bournemouth’s James Hill rose to reach England’s radar",
-    "date": "2026-05-19",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/19/bournemouth-james-hill-fleetwood-interview-andoni-iraola-england",
-    "summary": "‘Akinfenwa had me in a headlock’: how Bournemouth’s James Hill rose to reach England’s radar",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-19T09:20:16.101Z"
   }
 ];
