@@ -2,6 +2,201 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "a0de948db954",
+    "title": "Flawed but relentless Scotland show themselves as men of substance",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Flawed but relentless Scotland show themselves as men of substance",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "71dac6c4c7e7",
+    "title": "'Big decisions went against Scotland'",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c1myz9xye7xo?at_medium=RSS&at_campaign=rss",
+    "summary": "'Big decisions went against Scotland'",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "989103fde3f0",
+    "title": "World Cup groups separated by head-to-head records for first time",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
+    "summary": "World Cup groups separated by head-to-head records for first time",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "7d9b8ea618df",
+    "title": "Morocco 'got away with one' - McGinn",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c5yzl0jxkd3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Morocco 'got away with one' - McGinn",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "f4ad15cf950c",
+    "title": "World Cup 2026: Scotland fall flat; USA into knockouts; Turkey’s tears and Almíron’s red for covering mouth – live",
+    "date": "2026-06-20",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
+    "summary": "World Cup 2026: Scotland fall flat; USA into knockouts; Turkey’s tears and Almíron’s red for covering mouth – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "ed32a295e91a",
+    "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
+    "date": "2026-06-20",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
+    "summary": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "633aaf2ffde9",
+    "title": "Cold War Steve on … the arrival of the World Cup superheroes",
+    "date": "2026-06-20",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/picture/2026/jun/20/cold-war-steve-on-the-arrival-of-the-world-cup-superheroes",
+    "summary": "Cold War Steve on … the arrival of the World Cup superheroes",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "e744844c6edd",
+    "title": "'Nightmare start for Scotland' - Morocco score after 71 seconds",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/cd7wg71r38no?at_medium=RSS&at_campaign=rss",
+    "summary": "'Nightmare start for Scotland' - Morocco score after 71 seconds",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "80c65a7205ab",
+    "title": "England winger Saka unlikely to start against Ghana",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
+    "summary": "England winger Saka unlikely to start against Ghana",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "a8fb54d69b7e",
+    "title": "Ipswich close in on O'Neil as new head coach",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
+    "summary": "Ipswich close in on O'Neil as new head coach",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "b7b51c142755",
+    "title": "England's Barry to continue with half-time interviews",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cm2034enndpo?at_medium=RSS&at_campaign=rss",
+    "summary": "England's Barry to continue with half-time interviews",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "0cbe7b085eba",
+    "title": "USA qualify for last 32 after comfortable win over Australia",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c30ylqjmpgyo?at_medium=RSS&at_campaign=rss",
+    "summary": "USA qualify for last 32 after comfortable win over Australia",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "2753ab01c568",
+    "title": "Did key decisions go against Scotland in Morocco match?",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/videos/c2lye1qkz91o?at_medium=RSS&at_campaign=rss",
+    "summary": "Did key decisions go against Scotland in Morocco match?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "129bdae30e1e",
+    "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
+    "summary": "Who's the Bos? - meet 2026 World Cup's fastest player",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "73e02be0a88c",
+    "title": "Morocco captain Hakimi to stand trial for rape ",
+    "date": "2026-06-19",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Morocco captain Hakimi to stand trial for rape ",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
     "id": "27eee6c2e31e",
     "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
     "date": "2026-06-19",
@@ -208,6 +403,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-19T09:41:47.835Z"
+  },
+  {
+    "id": "2de869ff2c6e",
+    "title": "Golden Boot: World Cup 2026 top goalscorers",
+    "date": "2026-06-18",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+    "summary": "Golden Boot: World Cup 2026 top goalscorers",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-20T09:11:20.970Z"
   },
   {
     "id": "c09cbf90e46f",
@@ -6214,161 +6422,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "97912d09e74d",
-    "title": "A 2026 World Cup that doesn’t rip off fans? Some cities are showing that it’s possible",
-    "date": "2026-05-20",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
-    "summary": "A 2026 World Cup that doesn’t rip off fans? Some cities are showing that it’s possible",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "e8da28c4e0ae",
-    "title": "Major-minor nations split in World Cup qualifying",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cjdpjxgklyeo?at_medium=RSS&at_campaign=rss",
-    "summary": "Major-minor nations split in World Cup qualifying",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "b88e1d8d35cf",
-    "title": "Scotland call up young quartet for pre-World Cup training",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cgepznz1xe8o?at_medium=RSS&at_campaign=rss",
-    "summary": "Scotland call up young quartet for pre-World Cup training",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "fc6041c33944",
-    "title": "Emslie recalled by Scotland five months after giving birth",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cg5pm9j2ppgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Emslie recalled by Scotland five months after giving birth",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "b88e1d8d35cf",
-    "title": "Scotland call up young quartet for pre-World Cup training",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cgepznz1xe8o?at_medium=RSS&at_campaign=rss",
-    "summary": "Scotland call up young quartet for pre-World Cup training",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "fc6041c33944",
-    "title": "Emslie recalled by Scotland five months after giving birth",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cg5pm9j2ppgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Emslie recalled by Scotland five months after giving birth",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "62054e2bcee6",
-    "title": "This week’s soccer questions: Manchester City’s next steps, and is Messi peaking at the perfect time?",
-    "date": "2026-05-20",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/20/pep-guardiola-man-city-lionel-messi-celtic-hearts",
-    "summary": "This week’s soccer questions: Manchester City’s next steps, and is Messi peaking at the perfect time?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "821cb733856f",
-    "title": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape",
-    "date": "2026-05-20",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
-    "summary": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "e2e52eeccaf9",
-    "title": "DRC cancel World Cup training camp and fan event due to Ebola outbreak",
-    "date": "2026-05-20",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/20/drc-cancel-world-cup-training-camp-ebola-outbreak",
-    "summary": "DRC cancel World Cup training camp and fan event due to Ebola outbreak",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "6328d87ac708",
-    "title": "Empty rooms and Fifa cancellations - US hotels fear World Cup washout",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c9q34pxv79eo?at_medium=RSS&at_campaign=rss",
-    "summary": "Empty rooms and Fifa cancellations - US hotels fear World Cup washout",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "a2f678d85dec",
-    "title": "Scotland boss Clarke set for new deal until Euro 2028 - gossip",
-    "date": "2026-05-20",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cg7pvk157peo?at_medium=RSS&at_campaign=rss",
-    "summary": "Scotland boss Clarke set for new deal until Euro 2028 - gossip",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
-  },
-  {
-    "id": "a98fc1ea6989",
-    "title": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality",
-    "date": "2026-05-20",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality",
-    "summary": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-20T09:17:55.629Z"
   }
 ];
