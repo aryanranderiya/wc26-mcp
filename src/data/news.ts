@@ -2,6 +2,214 @@ import type { NewsItem } from "../types/index.js";
 
 export const news: NewsItem[] = [
   {
+    "id": "0fdbc4a653b9",
+    "title": "Copy of How close is this? Japan denied a goal by millimet...",
+    "date": "2026-06-21",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49132412/japan-denied-goal-millimeters-remember-2022-vs-spain",
+    "summary": "Copy of How close is this? Japan denied a goal by millimet...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "6deecec550c8",
+    "title": "Netherlands break WC record with Sweden thumping",
+    "date": "2026-06-21",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
+    "summary": "Netherlands break WC record with Sweden thumping",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "498afef9b5fa",
+    "title": "Spain coach: A mistake to compare Yamal to Messi",
+    "date": "2026-06-21",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49130119/spain-coach-luis-de-la-fuente-urges-caution-yamal-comparisons-messi-maradona",
+    "summary": "Spain coach: A mistake to compare Yamal to Messi",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "da3fa9ff61c5",
+    "title": "World Cup Daily: Ecuador, Curaçao look for first p...",
+    "date": "2026-06-21",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49122322/world-cup-daily-norway-fans-take-s-square-viking-row-germany-netherlands-action",
+    "summary": "World Cup Daily: Ecuador, Curaçao look for first p...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "542a1f02bb23",
+    "title": "Dargahi's path to Iran team is another example of ...",
+    "date": "2026-06-21",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49117443/iran-world-cup-dennis-dargahi-diaspora-citizenship",
+    "summary": "Dargahi's path to Iran team is another example of ...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "a94dcb3d5339",
+    "title": "From factory floor to World Cup star - Germany's super-sub Undav",
+    "date": "2026-06-21",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&at_campaign=rss",
+    "summary": "From factory floor to World Cup star - Germany's super-sub Undav",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "039076669258",
+    "title": "World Cup 2026: Curaçao claim historic point; Iran unhappy at lack of support from teams – live",
+    "date": "2026-06-21",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt",
+    "summary": "World Cup 2026: Curaçao claim historic point; Iran unhappy at lack of support from teams – live",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "602caa7c7d20",
+    "title": "Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match",
+    "date": "2026-06-21",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report",
+    "summary": "Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "23939958e9b1",
+    "title": "‘Stung’ Spain have digested shock start but know repeat is not an option",
+    "date": "2026-06-21",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/21/stung-spain-have-digested-shock-start-but-know-repeat-is-not-an-option",
+    "summary": "‘Stung’ Spain have digested shock start but know repeat is not an option",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "5f7a72154769",
+    "title": "England offer rare peek behind the curtain with no place to hide under Tuchel",
+    "date": "2026-06-21",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/21/england-world-cup-training-intensity-peek-behind-curtain-thomas-tuchel",
+    "summary": "England offer rare peek behind the curtain with no place to hide under Tuchel",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "bc799632587c",
+    "title": "Are Brazil back in business after World Cup win vs...",
+    "date": "2026-06-20",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49125986/are-brazil-back-business-world-cup-win-vs-haiti-not-quite",
+    "summary": "Are Brazil back in business after World Cup win vs...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "a88b536e27f6",
+    "title": "Doku criticised over plan to return home for birth",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Doku criticised over plan to return home for birth",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "241c94717246",
+    "title": "Why Kane is different at this World Cup - Shearer",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why Kane is different at this World Cup - Shearer",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "44f3473cb098",
+    "title": "Cooling hoodies help England staff combat World Cup heat",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&at_campaign=rss",
+    "summary": "Cooling hoodies help England staff combat World Cup heat",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "260b9eb61c46",
+    "title": "Why are so many World Cup goals being scored late?",
+    "date": "2026-06-20",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Why are so many World Cup goals being scored late?",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
+    "id": "7bfe6422c52c",
+    "title": "Brobbey and Gakpo at the double as five-star Netherlands crush sorry Sweden",
+    "date": "2026-06-20",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/20/netherlands-sweden-world-cup-group-f-match-report",
+    "summary": "Brobbey and Gakpo at the double as five-star Netherlands crush sorry Sweden",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
+  },
+  {
     "id": "a0de948db954",
     "title": "Flawed but relentless Scotland show themselves as men of substance",
     "date": "2026-06-20",
@@ -91,6 +299,19 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-06-20T09:11:20.970Z"
+  },
+  {
+    "id": "4164cc34f0f3",
+    "title": "Where has Infantino been? FIFA president has alrea...",
+    "date": "2026-06-19",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
+    "summary": "Where has Infantino been? FIFA president has alrea...",
+    "categories": [
+      "general"
+    ],
+    "related_teams": [],
+    "fetched_at": "2026-06-21T09:23:23.898Z"
   },
   {
     "id": "e744844c6edd",
@@ -6266,161 +6487,5 @@ export const news: NewsItem[] = [
     ],
     "related_teams": [],
     "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "3cfb7d57c6ae",
-    "title": "How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
-    "date": "2026-05-21",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c1k2g782m1ro?at_medium=RSS&at_campaign=rss",
-    "summary": "How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "302164a18876",
-    "title": "In, or out? The joy and despair of World Cup squad selection",
-    "date": "2026-05-21",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cq5p0706p4wo?at_medium=RSS&at_campaign=rss",
-    "summary": "In, or out? The joy and despair of World Cup squad selection",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "45c71a718c79",
-    "title": "Neuer, 40, reverses retirement to be Germany's first-choice World Cup keeper",
-    "date": "2026-05-21",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/c775kgzdmzgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Neuer, 40, reverses retirement to be Germany's first-choice World Cup keeper",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "965771571253",
-    "title": "Andy Robertson: ‘It was easy to fall in love with Liverpool – I’m fortunate Liverpool fell in love with me’",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/andy-robertson-liverpool-farewell-highs-lows-anfield",
-    "summary": "Andy Robertson: ‘It was easy to fall in love with Liverpool – I’m fortunate Liverpool fell in love with me’",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "1f6077fdafd3",
-    "title": "The chosen and the forgotten: Tuchel finalises his 26-strong England World Cup squad",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-2026-thomas-tuchel",
-    "summary": "The chosen and the forgotten: Tuchel finalises his 26-strong England World Cup squad",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "379fafce299c",
-    "title": "Manuel Neuer declared as Germany’s No 1 at World Cup after retirement U-turn",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/manuel-neuer-germany-no-1-world-cup",
-    "summary": "Manuel Neuer declared as Germany’s No 1 at World Cup after retirement U-turn",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "ceac0e611e67",
-    "title": "USMNT’s Chris Richards has torn ligaments in ankle, putting World Cup status in doubt",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/chris-richards-ankle-injury-usmnt-world-cup-crystal-palace",
-    "summary": "USMNT’s Chris Richards has torn ligaments in ankle, putting World Cup status in doubt",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "008ba70f01ed",
-    "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/zohran-mamdani-world-cup-tickets-new-york-city",
-    "summary": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "73bda558f43d",
-    "title": "Turkish delight for Villa and the Premier League relegation battle | Football Weekly – video",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/may/21/turkish-delight-aston-villa-europa-league-premier-league-relegation-battle-football-weekly-video",
-    "summary": "Turkish delight for Villa and the Premier League relegation battle | Football Weekly – video",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-22T09:15:20.262Z"
-  },
-  {
-    "id": "30bc9dfecebc",
-    "title": "The World Cup squad dilemmas facing Tuchel ",
-    "date": "2026-05-21",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cj3pvj3egddo?at_medium=RSS&at_campaign=rss",
-    "summary": "The World Cup squad dilemmas facing Tuchel ",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "7f65080503f4",
-    "title": "Salah set to captain Egypt at World Cup",
-    "date": "2026-05-21",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.com/sport/football/articles/cpwpnjkjl94o?at_medium=RSS&at_campaign=rss",
-    "summary": "Salah set to captain Egypt at World Cup",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
-  },
-  {
-    "id": "9fcc4fa916bb",
-    "title": "Haaland’s Norway to Ronaldo’s swansong: Who are the most likely first-time World Cup winners?",
-    "date": "2026-05-21",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/may/21/world-cup-first-time-winners-norway-haaland-portugal-ronaldo",
-    "summary": "Haaland’s Norway to Ronaldo’s swansong: Who are the most likely first-time World Cup winners?",
-    "categories": [
-      "general"
-    ],
-    "related_teams": [],
-    "fetched_at": "2026-05-21T09:17:31.063Z"
   }
 ];
