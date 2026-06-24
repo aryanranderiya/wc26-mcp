@@ -20,5 +20,10 @@ RUN npm ci --omit=dev
 COPY --from=builder /app/dist ./dist
 
 ENV NODE_ENV=production
+ENV PORT=3000
 
-ENTRYPOINT ["node", "dist/index.js"]
+EXPOSE 3000
+
+# Hosted deployments speak MCP over Streamable HTTP. The stdio entry
+# point (dist/index.js) is still used by `npx wc26-mcp` for local clients.
+CMD ["node", "dist/http.js"]
